@@ -1,0 +1,6318 @@
+fileFormatVersion: 2
+guid: 22096c074fbb223afbe0314528fcb850
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3184121887301421731
+    second: MS-DOS - Tyrian - Playable Characters - Ships_0
+  - first:
+      213: 6879990804838700053
+    second: MS-DOS - Tyrian - Playable Characters - Ships_1
+  - first:
+      213: -5591101377324644535
+    second: MS-DOS - Tyrian - Playable Characters - Ships_2
+  - first:
+      213: -2823869310021305092
+    second: MS-DOS - Tyrian - Playable Characters - Ships_3
+  - first:
+      213: -7843020061482685240
+    second: MS-DOS - Tyrian - Playable Characters - Ships_4
+  - first:
+      213: -7482404255037505055
+    second: MS-DOS - Tyrian - Playable Characters - Ships_5
+  - first:
+      213: 7355665949204666402
+    second: MS-DOS - Tyrian - Playable Characters - Ships_6
+  - first:
+      213: -647707413201445415
+    second: MS-DOS - Tyrian - Playable Characters - Ships_7
+  - first:
+      213: -4360599182460341062
+    second: MS-DOS - Tyrian - Playable Characters - Ships_8
+  - first:
+      213: -6816358451768815022
+    second: MS-DOS - Tyrian - Playable Characters - Ships_9
+  - first:
+      213: -8045870158361126697
+    second: MS-DOS - Tyrian - Playable Characters - Ships_10
+  - first:
+      213: 3763661440436144232
+    second: MS-DOS - Tyrian - Playable Characters - Ships_11
+  - first:
+      213: -685163821505847505
+    second: MS-DOS - Tyrian - Playable Characters - Ships_12
+  - first:
+      213: -6719608865181028923
+    second: MS-DOS - Tyrian - Playable Characters - Ships_13
+  - first:
+      213: -1117114371682409833
+    second: MS-DOS - Tyrian - Playable Characters - Ships_14
+  - first:
+      213: 4309921367755150185
+    second: MS-DOS - Tyrian - Playable Characters - Ships_15
+  - first:
+      213: -8417055406655968732
+    second: MS-DOS - Tyrian - Playable Characters - Ships_16
+  - first:
+      213: -4881928462934408363
+    second: MS-DOS - Tyrian - Playable Characters - Ships_17
+  - first:
+      213: -2041277270552924969
+    second: MS-DOS - Tyrian - Playable Characters - Ships_18
+  - first:
+      213: 8565839769768836279
+    second: MS-DOS - Tyrian - Playable Characters - Ships_19
+  - first:
+      213: 4000511706541509992
+    second: MS-DOS - Tyrian - Playable Characters - Ships_20
+  - first:
+      213: 6931015492931383760
+    second: MS-DOS - Tyrian - Playable Characters - Ships_21
+  - first:
+      213: -8235509595648379562
+    second: MS-DOS - Tyrian - Playable Characters - Ships_22
+  - first:
+      213: 529854726712319906
+    second: MS-DOS - Tyrian - Playable Characters - Ships_23
+  - first:
+      213: -6121327037126557428
+    second: MS-DOS - Tyrian - Playable Characters - Ships_24
+  - first:
+      213: 2439132477649158688
+    second: MS-DOS - Tyrian - Playable Characters - Ships_25
+  - first:
+      213: -219460744521773949
+    second: MS-DOS - Tyrian - Playable Characters - Ships_26
+  - first:
+      213: -886083355560198048
+    second: MS-DOS - Tyrian - Playable Characters - Ships_27
+  - first:
+      213: -8353319333801376662
+    second: MS-DOS - Tyrian - Playable Characters - Ships_28
+  - first:
+      213: 445066985095462390
+    second: MS-DOS - Tyrian - Playable Characters - Ships_29
+  - first:
+      213: 3925958654265041745
+    second: MS-DOS - Tyrian - Playable Characters - Ships_30
+  - first:
+      213: -2050380113007868204
+    second: MS-DOS - Tyrian - Playable Characters - Ships_31
+  - first:
+      213: -6251174448706420969
+    second: MS-DOS - Tyrian - Playable Characters - Ships_32
+  - first:
+      213: 1517763858132485054
+    second: MS-DOS - Tyrian - Playable Characters - Ships_33
+  - first:
+      213: -1916150123415677584
+    second: MS-DOS - Tyrian - Playable Characters - Ships_34
+  - first:
+      213: 4994120017662508887
+    second: MS-DOS - Tyrian - Playable Characters - Ships_35
+  - first:
+      213: -7850624259242787880
+    second: MS-DOS - Tyrian - Playable Characters - Ships_36
+  - first:
+      213: 885484734808056382
+    second: MS-DOS - Tyrian - Playable Characters - Ships_37
+  - first:
+      213: -3621882114424219027
+    second: MS-DOS - Tyrian - Playable Characters - Ships_38
+  - first:
+      213: 218690753255568005
+    second: MS-DOS - Tyrian - Playable Characters - Ships_39
+  - first:
+      213: 6446181087035297302
+    second: MS-DOS - Tyrian - Playable Characters - Ships_40
+  - first:
+      213: -3509908563392214904
+    second: MS-DOS - Tyrian - Playable Characters - Ships_41
+  - first:
+      213: 8601224856492480782
+    second: MS-DOS - Tyrian - Playable Characters - Ships_42
+  - first:
+      213: 4930415240014445767
+    second: MS-DOS - Tyrian - Playable Characters - Ships_43
+  - first:
+      213: -3276058174375460656
+    second: MS-DOS - Tyrian - Playable Characters - Ships_44
+  - first:
+      213: -7905471321871600350
+    second: MS-DOS - Tyrian - Playable Characters - Ships_45
+  - first:
+      213: 246895415226823218
+    second: MS-DOS - Tyrian - Playable Characters - Ships_46
+  - first:
+      213: -7849087020733906952
+    second: MS-DOS - Tyrian - Playable Characters - Ships_47
+  - first:
+      213: 678058705558484664
+    second: MS-DOS - Tyrian - Playable Characters - Ships_48
+  - first:
+      213: 956789201244519123
+    second: MS-DOS - Tyrian - Playable Characters - Ships_49
+  - first:
+      213: -4909177207816784848
+    second: MS-DOS - Tyrian - Playable Characters - Ships_50
+  - first:
+      213: -3901181804253792841
+    second: MS-DOS - Tyrian - Playable Characters - Ships_51
+  - first:
+      213: -5867016663081816173
+    second: MS-DOS - Tyrian - Playable Characters - Ships_52
+  - first:
+      213: -2906022609464780853
+    second: MS-DOS - Tyrian - Playable Characters - Ships_53
+  - first:
+      213: -571993158189441348
+    second: MS-DOS - Tyrian - Playable Characters - Ships_54
+  - first:
+      213: 7065005415362704313
+    second: MS-DOS - Tyrian - Playable Characters - Ships_55
+  - first:
+      213: 5466573357560494338
+    second: MS-DOS - Tyrian - Playable Characters - Ships_56
+  - first:
+      213: -5460773917659114057
+    second: MS-DOS - Tyrian - Playable Characters - Ships_57
+  - first:
+      213: 5809240842672152880
+    second: MS-DOS - Tyrian - Playable Characters - Ships_58
+  - first:
+      213: -6168454397027470772
+    second: MS-DOS - Tyrian - Playable Characters - Ships_59
+  - first:
+      213: 2419139080398451813
+    second: MS-DOS - Tyrian - Playable Characters - Ships_60
+  - first:
+      213: -2099073771248894226
+    second: MS-DOS - Tyrian - Playable Characters - Ships_61
+  - first:
+      213: 7344126220117566459
+    second: MS-DOS - Tyrian - Playable Characters - Ships_62
+  - first:
+      213: 5293668219813447544
+    second: MS-DOS - Tyrian - Playable Characters - Ships_63
+  - first:
+      213: -4225530718822762354
+    second: MS-DOS - Tyrian - Playable Characters - Ships_64
+  - first:
+      213: -7266723500683072792
+    second: MS-DOS - Tyrian - Playable Characters - Ships_65
+  - first:
+      213: 1465990321471583646
+    second: MS-DOS - Tyrian - Playable Characters - Ships_66
+  - first:
+      213: 1992193650407168229
+    second: MS-DOS - Tyrian - Playable Characters - Ships_67
+  - first:
+      213: 18471156832276713
+    second: MS-DOS - Tyrian - Playable Characters - Ships_68
+  - first:
+      213: -5432138838879431244
+    second: MS-DOS - Tyrian - Playable Characters - Ships_69
+  - first:
+      213: -3077813118642132953
+    second: MS-DOS - Tyrian - Playable Characters - Ships_70
+  - first:
+      213: -5198907022537739433
+    second: MS-DOS - Tyrian - Playable Characters - Ships_71
+  - first:
+      213: -51612798476243026
+    second: MS-DOS - Tyrian - Playable Characters - Ships_72
+  - first:
+      213: 8608066572878816759
+    second: MS-DOS - Tyrian - Playable Characters - Ships_73
+  - first:
+      213: 6360068298652460318
+    second: MS-DOS - Tyrian - Playable Characters - Ships_74
+  - first:
+      213: 7331416644384732169
+    second: MS-DOS - Tyrian - Playable Characters - Ships_75
+  - first:
+      213: -9146801424821466902
+    second: MS-DOS - Tyrian - Playable Characters - Ships_76
+  - first:
+      213: 1264428904234134150
+    second: MS-DOS - Tyrian - Playable Characters - Ships_77
+  - first:
+      213: 1961824071330938289
+    second: MS-DOS - Tyrian - Playable Characters - Ships_78
+  - first:
+      213: 8249497576470812004
+    second: MS-DOS - Tyrian - Playable Characters - Ships_79
+  - first:
+      213: -5518180440482223672
+    second: MS-DOS - Tyrian - Playable Characters - Ships_80
+  - first:
+      213: 2412607183300617366
+    second: MS-DOS - Tyrian - Playable Characters - Ships_81
+  - first:
+      213: 3300935071136778327
+    second: MS-DOS - Tyrian - Playable Characters - Ships_82
+  - first:
+      213: -279990625000067592
+    second: MS-DOS - Tyrian - Playable Characters - Ships_83
+  - first:
+      213: -1795144741307818307
+    second: MS-DOS - Tyrian - Playable Characters - Ships_84
+  - first:
+      213: -9110032873016441692
+    second: MS-DOS - Tyrian - Playable Characters - Ships_85
+  - first:
+      213: -6640094239666282735
+    second: MS-DOS - Tyrian - Playable Characters - Ships_86
+  - first:
+      213: -1440625076043063502
+    second: MS-DOS - Tyrian - Playable Characters - Ships_87
+  - first:
+      213: -1777888404690209602
+    second: MS-DOS - Tyrian - Playable Characters - Ships_88
+  - first:
+      213: 6716332572077094546
+    second: MS-DOS - Tyrian - Playable Characters - Ships_89
+  - first:
+      213: 4364923817106441774
+    second: MS-DOS - Tyrian - Playable Characters - Ships_90
+  - first:
+      213: -8478524345155507152
+    second: MS-DOS - Tyrian - Playable Characters - Ships_91
+  - first:
+      213: -4914942638805695575
+    second: MS-DOS - Tyrian - Playable Characters - Ships_92
+  - first:
+      213: -2851083612695801239
+    second: MS-DOS - Tyrian - Playable Characters - Ships_93
+  - first:
+      213: -5718858862578831037
+    second: MS-DOS - Tyrian - Playable Characters - Ships_94
+  - first:
+      213: 1933334200142074121
+    second: MS-DOS - Tyrian - Playable Characters - Ships_95
+  - first:
+      213: 415079140739926790
+    second: MS-DOS - Tyrian - Playable Characters - Ships_96
+  - first:
+      213: -3283660102287833301
+    second: MS-DOS - Tyrian - Playable Characters - Ships_97
+  - first:
+      213: 2363803064934413876
+    second: MS-DOS - Tyrian - Playable Characters - Ships_98
+  - first:
+      213: -3196075149911268031
+    second: MS-DOS - Tyrian - Playable Characters - Ships_99
+  - first:
+      213: -2141885420610040731
+    second: MS-DOS - Tyrian - Playable Characters - Ships_100
+  - first:
+      213: 5808666899052709527
+    second: MS-DOS - Tyrian - Playable Characters - Ships_101
+  - first:
+      213: 4800161323595722516
+    second: MS-DOS - Tyrian - Playable Characters - Ships_102
+  - first:
+      213: 1299953675342805682
+    second: MS-DOS - Tyrian - Playable Characters - Ships_103
+  - first:
+      213: 2570745852369244300
+    second: MS-DOS - Tyrian - Playable Characters - Ships_104
+  - first:
+      213: 5402555364153495757
+    second: MS-DOS - Tyrian - Playable Characters - Ships_105
+  - first:
+      213: 6860136963791745796
+    second: MS-DOS - Tyrian - Playable Characters - Ships_106
+  - first:
+      213: -3819807735084087102
+    second: MS-DOS - Tyrian - Playable Characters - Ships_107
+  - first:
+      213: -2936481225309474390
+    second: MS-DOS - Tyrian - Playable Characters - Ships_108
+  - first:
+      213: 2154269760944914092
+    second: MS-DOS - Tyrian - Playable Characters - Ships_109
+  - first:
+      213: -8852793684282840235
+    second: MS-DOS - Tyrian - Playable Characters - Ships_110
+  - first:
+      213: 8646654679794748164
+    second: MS-DOS - Tyrian - Playable Characters - Ships_111
+  - first:
+      213: 7009670009498204537
+    second: MS-DOS - Tyrian - Playable Characters - Ships_112
+  - first:
+      213: 9018751720288939430
+    second: MS-DOS - Tyrian - Playable Characters - Ships_113
+  - first:
+      213: 7172543510626547653
+    second: MS-DOS - Tyrian - Playable Characters - Ships_114
+  - first:
+      213: -2442245997503280521
+    second: MS-DOS - Tyrian - Playable Characters - Ships_115
+  - first:
+      213: -8246263605924099767
+    second: MS-DOS - Tyrian - Playable Characters - Ships_116
+  - first:
+      213: -7764033102357585803
+    second: MS-DOS - Tyrian - Playable Characters - Ships_117
+  - first:
+      213: 2676818311863498362
+    second: MS-DOS - Tyrian - Playable Characters - Ships_118
+  - first:
+      213: -8414964057170600689
+    second: MS-DOS - Tyrian - Playable Characters - Ships_119
+  - first:
+      213: 3538436948712883144
+    second: MS-DOS - Tyrian - Playable Characters - Ships_120
+  - first:
+      213: 3545418971569605318
+    second: MS-DOS - Tyrian - Playable Characters - Ships_121
+  - first:
+      213: -1885354757309882485
+    second: MS-DOS - Tyrian - Playable Characters - Ships_122
+  - first:
+      213: -4757251346860479539
+    second: MS-DOS - Tyrian - Playable Characters - Ships_123
+  - first:
+      213: 7623746367037310062
+    second: MS-DOS - Tyrian - Playable Characters - Ships_124
+  - first:
+      213: 2213032336488028410
+    second: MS-DOS - Tyrian - Playable Characters - Ships_125
+  - first:
+      213: -3836562244866011202
+    second: MS-DOS - Tyrian - Playable Characters - Ships_126
+  - first:
+      213: -6028757797320088954
+    second: MS-DOS - Tyrian - Playable Characters - Ships_127
+  - first:
+      213: -3915958049724316892
+    second: MS-DOS - Tyrian - Playable Characters - Ships_128
+  - first:
+      213: -4460358715285211843
+    second: MS-DOS - Tyrian - Playable Characters - Ships_129
+  - first:
+      213: 543743465147004205
+    second: MS-DOS - Tyrian - Playable Characters - Ships_130
+  - first:
+      213: -2912901539259500707
+    second: MS-DOS - Tyrian - Playable Characters - Ships_131
+  - first:
+      213: -2947166825413761161
+    second: MS-DOS - Tyrian - Playable Characters - Ships_132
+  - first:
+      213: 4192097166322881249
+    second: MS-DOS - Tyrian - Playable Characters - Ships_133
+  - first:
+      213: -6197790235513567921
+    second: MS-DOS - Tyrian - Playable Characters - Ships_134
+  - first:
+      213: -1009447665985868601
+    second: MS-DOS - Tyrian - Playable Characters - Ships_135
+  - first:
+      213: 1261489681387680907
+    second: MS-DOS - Tyrian - Playable Characters - Ships_136
+  - first:
+      213: 2472518248611051439
+    second: MS-DOS - Tyrian - Playable Characters - Ships_137
+  - first:
+      213: -6988300635842429993
+    second: MS-DOS - Tyrian - Playable Characters - Ships_138
+  - first:
+      213: 2091084534970872495
+    second: MS-DOS - Tyrian - Playable Characters - Ships_139
+  - first:
+      213: 4199856093017301541
+    second: MS-DOS - Tyrian - Playable Characters - Ships_140
+  - first:
+      213: -5228232249308006771
+    second: MS-DOS - Tyrian - Playable Characters - Ships_141
+  - first:
+      213: 230260534024619870
+    second: MS-DOS - Tyrian - Playable Characters - Ships_142
+  - first:
+      213: 8019499542666084389
+    second: MS-DOS - Tyrian - Playable Characters - Ships_143
+  - first:
+      213: 5225670864464601533
+    second: MS-DOS - Tyrian - Playable Characters - Ships_144
+  - first:
+      213: 7595595061120155504
+    second: MS-DOS - Tyrian - Playable Characters - Ships_145
+  - first:
+      213: 1236553823194555857
+    second: MS-DOS - Tyrian - Playable Characters - Ships_146
+  - first:
+      213: 583704868702283686
+    second: MS-DOS - Tyrian - Playable Characters - Ships_147
+  - first:
+      213: 6327196892356649281
+    second: MS-DOS - Tyrian - Playable Characters - Ships_148
+  - first:
+      213: 664677023028688975
+    second: MS-DOS - Tyrian - Playable Characters - Ships_149
+  - first:
+      213: 8898515983286933262
+    second: MS-DOS - Tyrian - Playable Characters - Ships_150
+  - first:
+      213: 7132300673544218679
+    second: MS-DOS - Tyrian - Playable Characters - Ships_151
+  - first:
+      213: 1330631976227875096
+    second: MS-DOS - Tyrian - Playable Characters - Ships_152
+  - first:
+      213: 3551232914125194938
+    second: MS-DOS - Tyrian - Playable Characters - Ships_153
+  - first:
+      213: 5937237569095365122
+    second: MS-DOS - Tyrian - Playable Characters - Ships_154
+  - first:
+      213: 5942268643691184775
+    second: MS-DOS - Tyrian - Playable Characters - Ships_155
+  - first:
+      213: -7775262047846956885
+    second: MS-DOS - Tyrian - Playable Characters - Ships_156
+  - first:
+      213: 8071484375652681711
+    second: MS-DOS - Tyrian - Playable Characters - Ships_157
+  - first:
+      213: 6895429216032592761
+    second: MS-DOS - Tyrian - Playable Characters - Ships_158
+  - first:
+      213: -2211298931042472725
+    second: MS-DOS - Tyrian - Playable Characters - Ships_159
+  - first:
+      213: 8399163123597946883
+    second: MS-DOS - Tyrian - Playable Characters - Ships_160
+  - first:
+      213: -6586233366605160707
+    second: MS-DOS - Tyrian - Playable Characters - Ships_161
+  - first:
+      213: -2113771828752857510
+    second: MS-DOS - Tyrian - Playable Characters - Ships_162
+  - first:
+      213: -8926547930595961170
+    second: MS-DOS - Tyrian - Playable Characters - Ships_163
+  - first:
+      213: 8606343065600297532
+    second: MS-DOS - Tyrian - Playable Characters - Ships_164
+  - first:
+      213: 7925744333881212524
+    second: MS-DOS - Tyrian - Playable Characters - Ships_165
+  - first:
+      213: -2576938862695453619
+    second: MS-DOS - Tyrian - Playable Characters - Ships_166
+  - first:
+      213: -1847432898836055053
+    second: MS-DOS - Tyrian - Playable Characters - Ships_167
+  - first:
+      213: -4132800296001762799
+    second: MS-DOS - Tyrian - Playable Characters - Ships_168
+  - first:
+      213: -922753188527255445
+    second: MS-DOS - Tyrian - Playable Characters - Ships_169
+  - first:
+      213: -6375515652785553573
+    second: MS-DOS - Tyrian - Playable Characters - Ships_170
+  - first:
+      213: -3132043095752610585
+    second: MS-DOS - Tyrian - Playable Characters - Ships_171
+  - first:
+      213: -6480542954258676548
+    second: MS-DOS - Tyrian - Playable Characters - Ships_172
+  - first:
+      213: 1227618660223888936
+    second: MS-DOS - Tyrian - Playable Characters - Ships_173
+  - first:
+      213: -4411085526041513241
+    second: MS-DOS - Tyrian - Playable Characters - Ships_174
+  - first:
+      213: 3184379147445199313
+    second: MS-DOS - Tyrian - Playable Characters - Ships_175
+  - first:
+      213: 8307634973980740239
+    second: MS-DOS - Tyrian - Playable Characters - Ships_176
+  - first:
+      213: -8405632285570405366
+    second: MS-DOS - Tyrian - Playable Characters - Ships_177
+  - first:
+      213: 4208196636252839836
+    second: MS-DOS - Tyrian - Playable Characters - Ships_178
+  - first:
+      213: 7880074699599326070
+    second: MS-DOS - Tyrian - Playable Characters - Ships_179
+  - first:
+      213: 6986767817695186334
+    second: MS-DOS - Tyrian - Playable Characters - Ships_180
+  - first:
+      213: 7795480287726183976
+    second: MS-DOS - Tyrian - Playable Characters - Ships_181
+  - first:
+      213: 4710624172013372039
+    second: MS-DOS - Tyrian - Playable Characters - Ships_182
+  - first:
+      213: -1862452668689419044
+    second: MS-DOS - Tyrian - Playable Characters - Ships_183
+  - first:
+      213: 4235906149412718914
+    second: MS-DOS - Tyrian - Playable Characters - Ships_184
+  - first:
+      213: -464444490876782974
+    second: MS-DOS - Tyrian - Playable Characters - Ships_185
+  - first:
+      213: 3858379692114250430
+    second: MS-DOS - Tyrian - Playable Characters - Ships_186
+  - first:
+      213: 2168157847445018403
+    second: MS-DOS - Tyrian - Playable Characters - Ships_187
+  - first:
+      213: -3166540108621465107
+    second: MS-DOS - Tyrian - Playable Characters - Ships_188
+  - first:
+      213: 3283355737722465700
+    second: MS-DOS - Tyrian - Playable Characters - Ships_189
+  - first:
+      213: -7381808971318208081
+    second: MS-DOS - Tyrian - Playable Characters - Ships_190
+  - first:
+      213: 4567126703406568382
+    second: MS-DOS - Tyrian - Playable Characters - Ships_191
+  - first:
+      213: -2697895847144529558
+    second: MS-DOS - Tyrian - Playable Characters - Ships_192
+  - first:
+      213: -3859514827628414268
+    second: MS-DOS - Tyrian - Playable Characters - Ships_193
+  - first:
+      213: 3146271397136702752
+    second: MS-DOS - Tyrian - Playable Characters - Ships_194
+  - first:
+      213: 7297852224744286186
+    second: MS-DOS - Tyrian - Playable Characters - Ships_195
+  - first:
+      213: -7798047569405796506
+    second: MS-DOS - Tyrian - Playable Characters - Ships_196
+  - first:
+      213: -643269841329970963
+    second: MS-DOS - Tyrian - Playable Characters - Ships_197
+  - first:
+      213: -7989245711104958650
+    second: MS-DOS - Tyrian - Playable Characters - Ships_198
+  - first:
+      213: -5289817530040929093
+    second: MS-DOS - Tyrian - Playable Characters - Ships_199
+  - first:
+      213: -6914874553225234763
+    second: MS-DOS - Tyrian - Playable Characters - Ships_200
+  - first:
+      213: 5967875775601869939
+    second: MS-DOS - Tyrian - Playable Characters - Ships_201
+  - first:
+      213: 4566329182515131741
+    second: MS-DOS - Tyrian - Playable Characters - Ships_202
+  - first:
+      213: -5965297875402784795
+    second: MS-DOS - Tyrian - Playable Characters - Ships_203
+  - first:
+      213: 3509749258466527349
+    second: MS-DOS - Tyrian - Playable Characters - Ships_204
+  - first:
+      213: -823170361772894101
+    second: MS-DOS - Tyrian - Playable Characters - Ships_205
+  - first:
+      213: -8105684342138472969
+    second: MS-DOS - Tyrian - Playable Characters - Ships_206
+  - first:
+      213: 7485137881429129838
+    second: MS-DOS - Tyrian - Playable Characters - Ships_207
+  - first:
+      213: 1628032003923197866
+    second: MS-DOS - Tyrian - Playable Characters - Ships_208
+  - first:
+      213: 9083061237368241308
+    second: MS-DOS - Tyrian - Playable Characters - Ships_209
+  - first:
+      213: 5021657222270385132
+    second: MS-DOS - Tyrian - Playable Characters - Ships_210
+  - first:
+      213: -9134048237268833145
+    second: MS-DOS - Tyrian - Playable Characters - Ships_211
+  - first:
+      213: -3586598097652880006
+    second: MS-DOS - Tyrian - Playable Characters - Ships_212
+  - first:
+      213: -10491712645864646
+    second: MS-DOS - Tyrian - Playable Characters - Ships_213
+  - first:
+      213: -3705603714906100864
+    second: MS-DOS - Tyrian - Playable Characters - Ships_214
+  - first:
+      213: 8582743250071227476
+    second: MS-DOS - Tyrian - Playable Characters - Ships_215
+  - first:
+      213: -2348216496613463912
+    second: MS-DOS - Tyrian - Playable Characters - Ships_216
+  - first:
+      213: -3315865550310455487
+    second: MS-DOS - Tyrian - Playable Characters - Ships_217
+  - first:
+      213: -745652034025275342
+    second: MS-DOS - Tyrian - Playable Characters - Ships_218
+  - first:
+      213: 2996581892548696324
+    second: MS-DOS - Tyrian - Playable Characters - Ships_219
+  - first:
+      213: -1974644319695644245
+    second: MS-DOS - Tyrian - Playable Characters - Ships_220
+  - first:
+      213: -715443053564599190
+    second: MS-DOS - Tyrian - Playable Characters - Ships_221
+  - first:
+      213: 3565084915597239820
+    second: MS-DOS - Tyrian - Playable Characters - Ships_222
+  - first:
+      213: 5779780119857499936
+    second: MS-DOS - Tyrian - Playable Characters - Ships_223
+  - first:
+      213: -8807277688997636158
+    second: MS-DOS - Tyrian - Playable Characters - Ships_224
+  - first:
+      213: -5073601009826244978
+    second: MS-DOS - Tyrian - Playable Characters - Ships_225
+  - first:
+      213: -1761111503534205715
+    second: MS-DOS - Tyrian - Playable Characters - Ships_226
+  - first:
+      213: -4915552389623769859
+    second: MS-DOS - Tyrian - Playable Characters - Ships_227
+  - first:
+      213: 2278787092618178284
+    second: MS-DOS - Tyrian - Playable Characters - Ships_228
+  - first:
+      213: 1243036926524517140
+    second: MS-DOS - Tyrian - Playable Characters - Ships_229
+  - first:
+      213: 2209253369921205090
+    second: MS-DOS - Tyrian - Playable Characters - Ships_230
+  - first:
+      213: -6788414347873047434
+    second: MS-DOS - Tyrian - Playable Characters - Ships_231
+  - first:
+      213: -5088562681485494141
+    second: MS-DOS - Tyrian - Playable Characters - Ships_232
+  - first:
+      213: -192279571218482972
+    second: MS-DOS - Tyrian - Playable Characters - Ships_233
+  - first:
+      213: -5056333903075805732
+    second: MS-DOS - Tyrian - Playable Characters - Ships_234
+  - first:
+      213: 7101657441657121406
+    second: MS-DOS - Tyrian - Playable Characters - Ships_235
+  - first:
+      213: 150536213480049307
+    second: MS-DOS - Tyrian - Playable Characters - Ships_236
+  - first:
+      213: 4607602104208852087
+    second: MS-DOS - Tyrian - Playable Characters - Ships_237
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 448
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac52e7cf5403c20800000000000000
+      internalID: 3184121887301421731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 448
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5145d5c6f23aa7f50800000000000000
+      internalID: 6879990804838700053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9470e559bea6862b0800000000000000
+      internalID: -5591101377324644535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 438
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc7d04f2d99fc8d0800000000000000
+      internalID: -2823869310021305092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 437
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccef05eecef72390800000000000000
+      internalID: -7843020061482685240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 438
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e14e9839f8292890800000000000000
+      internalID: -7482404255037505055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 438
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228d7c47533941660800000000000000
+      internalID: 7355665949204666402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 438
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd9db51a81e207f0800000000000000
+      internalID: -647707413201445415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 413
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4b791a52a0c73c0800000000000000
+      internalID: -4360599182460341062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 413
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252969c4a1e6761a0800000000000000
+      internalID: -6816358451768815022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 413
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d818f548b3575090800000000000000
+      internalID: -8045870158361126697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 413
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868080ca3263b3430800000000000000
+      internalID: 3763661440436144232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 413
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fd13e622fcd76f0800000000000000
+      internalID: -685163821505847505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 413
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda151d6572fb2a0800000000000000
+      internalID: -6719608865181028923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 405
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792e26ec5663f70f0800000000000000
+      internalID: -1117114371682409833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 403
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96359e626aaefcb30800000000000000
+      internalID: 4309921367755150185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 405
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a6d7ff3bc903b80800000000000000
+      internalID: -8417055406655968732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 406
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5530de3bde7ef3cb0800000000000000
+      internalID: -4881928462934408363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 406
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc2d98332deba3e0800000000000000
+      internalID: -2041277270552924969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 375
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc3cf703e9ffd670800000000000000
+      internalID: 8565839769768836279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 375
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dc234933ca48730800000000000000
+      internalID: 4000511706541509992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d177e46ed9ef2060800000000000000
+      internalID: 6931015492931383760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 375
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655be0708a795bd80800000000000000
+      internalID: -8235509595648379562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 375
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afdf30111c6a5700800000000000000
+      internalID: 529854726712319906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01c31eed7dac0ba0800000000000000
+      internalID: -6121327037126557428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022856ab01a89d120800000000000000
+      internalID: 2439132477649158688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 366
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c03a89d9154fcf0800000000000000
+      internalID: -219460744521773949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 366
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060c27ef1eff3b3f0800000000000000
+      internalID: -886083355560198048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 366
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64cd5dd25c031c80800000000000000
+      internalID: -8353319333801376662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 367
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd7edb90123d2600800000000000000
+      internalID: 445066985095462390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 367
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153a65e689ecb7630800000000000000
+      internalID: 3925958654265041745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 342
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d604ad86269b83e0800000000000000
+      internalID: -2050380113007868204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ffad385fd5f39a0800000000000000
+      internalID: -6251174448706420969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3c9e0003e201510800000000000000
+      internalID: 1517763858132485054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 342
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075dc7d6d977865e0800000000000000
+      internalID: -1916150123415677584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ff07232bdae4540800000000000000
+      internalID: 4994120017662508887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbf4c2a4dafc0390800000000000000
+      internalID: -7850624259242787880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 342
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32e340ccafd94c00800000000000000
+      internalID: 885484734808056382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 342
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a576f086d7cbdc0800000000000000
+      internalID: -3621882114424219027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 331
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582f577d412f80300800000000000000
+      internalID: 218690753255568005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 332
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e849a9b8f657950800000000000000
+      internalID: 6446181087035297302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 331
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888c7e402cc4a4fc0800000000000000
+      internalID: -3509908563392214904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 331
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e099e7c8f60bd5770800000000000000
+      internalID: 8601224856492480782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 331
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccbb30d98a5c6440800000000000000
+      internalID: 4930415240014445767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 333
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d006dc927a1982d0800000000000000
+      internalID: -3276058174375460656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 333
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2253ecdb7bf1a4290800000000000000
+      internalID: -7905471321871600350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_46
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 333
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232744172162d6300800000000000000
+      internalID: 246895415226823218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_47
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 333
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffb60ed0f0721390800000000000000
+      internalID: -7849087020733906952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_48
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 333
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6bca9dcc2f86900800000000000000
+      internalID: 678058705558484664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 305
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dafb1195b2374d00800000000000000
+      internalID: 956789201244519123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 305
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034f2a4e6591fdbb0800000000000000
+      internalID: -4909177207816784848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 305
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b53c3181d73cd9c0800000000000000
+      internalID: -3901181804253792841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 305
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fe5b10e6b249ea0800000000000000
+      internalID: -5867016663081816173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 305
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7199d55dbbba7d0800000000000000
+      internalID: -2906022609464780853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 295
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe1a20d04fdf08f0800000000000000
+      internalID: -571993158189441348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 295
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3b7e64ef0fb0260800000000000000
+      internalID: 7065005415362704313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 295
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209f10c618b2ddb40800000000000000
+      internalID: 5466573357560494338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 295
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5d537ed0f6734b0800000000000000
+      internalID: -5460773917659114057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_58
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 295
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0312a2a84c19e9050800000000000000
+      internalID: 5809240842672152880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_59
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 311
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c423bf3686f356aa0800000000000000
+      internalID: -6168454397027470772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5643a6d2d22829120800000000000000
+      internalID: 2419139080398451813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeebe53c6879ed2e0800000000000000
+      internalID: -2099073771248894226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 311
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf36db7e2e39be560800000000000000
+      internalID: 7344126220117566459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_63
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87741c8e233e67940800000000000000
+      internalID: 5293668219813447544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 311
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e887115f236eb55c0800000000000000
+      internalID: -4225530718822762354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_65
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 311
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea6dc41a79672b90800000000000000
+      internalID: -7266723500683072792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_66
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 311
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9579732e6e385410800000000000000
+      internalID: 1465990321471583646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_67
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 311
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8de48e191b5ab10800000000000000
+      internalID: 1992193650407168229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_68
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 309
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e014955b6f914000800000000000000
+      internalID: 18471156832276713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b51df9b18a2d94b0800000000000000
+      internalID: -5432138838879431244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_70
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 311
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7286c4a86496945d0800000000000000
+      internalID: -3077813118642132953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 311
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753ba55ab95c9d7b0800000000000000
+      internalID: -5198907022537739433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_72
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafa5f8ee62a84ff0800000000000000
+      internalID: -51612798476243026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_73
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 311
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f52b57c0fef57770800000000000000
+      internalID: 8608066572878816759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_74
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e152768ab60834850800000000000000
+      internalID: 6360068298652460318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_75
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 311
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90430f4389c6eb560800000000000000
+      internalID: 7331416644384732169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_76
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 311
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8ca72e098001180800000000000000
+      internalID: -9146801424821466902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_77
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 311
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aac90a3672c8110800000000000000
+      internalID: 1264428904234134150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 268
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdbd73499cc93b10800000000000000
+      internalID: 1961824071330938289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_79
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4651dfc865a1c7270800000000000000
+      internalID: 8249497576470812004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_80
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 266
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c96c8e302c7b63b0800000000000000
+      internalID: -5518180440482223672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_81
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694603f537d4b7120800000000000000
+      internalID: 2412607183300617366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_82
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588cb545f64fcd20800000000000000
+      internalID: 3300935071136778327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 268
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd6e6092064d1cf0800000000000000
+      internalID: -279990625000067592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbedfed6e5d5617e0800000000000000
+      internalID: -1795144741307818307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_85
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a449b77e59a29180800000000000000
+      internalID: -9110032873016441692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fd2914875a9d3a0800000000000000
+      internalID: -6640094239666282735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_87
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fdee7402fd10ce0800000000000000
+      internalID: -1440625076043063502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 268
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb477246aeba357e0800000000000000
+      internalID: -1777888404690209602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_89
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 258
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2967a00c3e4353d50800000000000000
+      internalID: 6716332572077094546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_90
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 257
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268546d513539c30800000000000000
+      internalID: 4364923817106441774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_91
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 256
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c218b770b365a80800000000000000
+      internalID: -8478524345155507152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 256
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3c092e5bd9acbb0800000000000000
+      internalID: -4914942638805695575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_93
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 256
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96254585f8aee68d0800000000000000
+      internalID: -2851083612695801239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_94
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 240
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341f46f0a2882a0b0800000000000000
+      internalID: -5718858862578831037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9011597363594da10800000000000000
+      internalID: 1933334200142074121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_96
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b4a718748a2c500800000000000000
+      internalID: 415079140739926790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27c208d8881e62d0800000000000000
+      internalID: -3283660102287833301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_98
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43635641d5aedc020800000000000000
+      internalID: 2363803064934413876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_99
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145e51ea59245a3d0800000000000000
+      internalID: -3196075149911268031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_100
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c43f2ee8e7642e0800000000000000
+      internalID: -2141885420610040731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_101
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 256
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7964b90e4c78c9050800000000000000
+      internalID: 5808666899052709527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_102
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 254
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fed7d9a499d9240800000000000000
+      internalID: 4800161323595722516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_103
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba7543fafc5a0210800000000000000
+      internalID: 1299953675342805682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_104
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 256
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80174a7bbf1da320800000000000000
+      internalID: 2570745852369244300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc010cfca7bb9fa40800000000000000
+      internalID: 5402555364153495757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_106
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4037555d83a143f50800000000000000
+      internalID: 6860136963791745796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 218
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c806086a115dfac0800000000000000
+      internalID: -3819807735084087102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_108
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 217
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa133db32e58f37d0800000000000000
+      internalID: -2936481225309474390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_109
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 218
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caebc7b0fe085ed10800000000000000
+      internalID: 2154269760944914092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_110
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 218
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bef7a5c0f842580800000000000000
+      internalID: -8852793684282840235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_111
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 219
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b82ac8e961ff770800000000000000
+      internalID: 8646654679794748164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_112
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97979dc1cb9574160800000000000000
+      internalID: 7009670009498204537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_113
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ade34df7ea092d70800000000000000
+      internalID: 9018751720288939430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_114
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 243
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7bde6325ef98360800000000000000
+      internalID: 7172543510626547653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_115
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 241
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a82b074366b1ed0800000000000000
+      internalID: -2442245997503280521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_116
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 243
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94989a4e0f26f8d80800000000000000
+      internalID: -8246263605924099767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_117
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 243
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5702a9d670d904490800000000000000
+      internalID: -7764033102357585803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_118
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7672ee7218f52520800000000000000
+      internalID: 2676818311863498362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_119
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d9aae36ca083b80800000000000000
+      internalID: -8414964057170600689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_120
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 243
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3062c48ad0b1130800000000000000
+      internalID: 3538436948712883144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_121
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 228
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca465c25cbd33130800000000000000
+      internalID: 3545418971569605318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_122
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f93f656dfd5d5e0800000000000000
+      internalID: -1885354757309882485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_123
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 228
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbe123ea19dafdb0800000000000000
+      internalID: -4757251346860479539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_124
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 228
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e640fe0bdecfcc960800000000000000
+      internalID: 7623746367037310062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_125
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af852d45f2546be10800000000000000
+      internalID: 2213032336488028410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_126
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 228
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf061c17fac1cac0800000000000000
+      internalID: -3836562244866011202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_127
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 194
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682aedd99bc855ca0800000000000000
+      internalID: -6028757797320088954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_128
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423c9d2c6e8b7a9c0800000000000000
+      internalID: -3915958049724316892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_129
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 194
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357b94616f9912c0800000000000000
+      internalID: -4460358715285211843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_130
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 194
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25f609fcc3cb8700800000000000000
+      internalID: 543743465147004205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_131
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57bfb6bb7b4397d0800000000000000
+      internalID: -2912901539259500707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_132
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a565136f8917d0800000000000000
+      internalID: -2947166825413761161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_133
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 194
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2d89e79225d2a30800000000000000
+      internalID: 4192097166322881249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_134
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 185
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4544db3e960df9a0800000000000000
+      internalID: -6197790235513567921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_135
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 185
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cca09132b8bdf1f0800000000000000
+      internalID: -1009447665985868601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_136
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 185
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84feea7e26b18110800000000000000
+      internalID: 1261489681387680907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_137
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 185
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7f1254f36205220800000000000000
+      internalID: 2472518248611051439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_138
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 186
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbb9f8e891940f90800000000000000
+      internalID: -6988300635842429993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_139
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa270463e46050d10800000000000000
+      internalID: 2091084534970872495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_140
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5226e046dd2e84a30800000000000000
+      internalID: 4199856093017301541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_141
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 163
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8631c838769177b0800000000000000
+      internalID: -5228232249308006771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_142
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 161
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5744585cbc023300800000000000000
+      internalID: 230260534024619870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_143
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520050d485cfa4f60800000000000000
+      internalID: 8019499542666084389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_144
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db16585e6ff458840800000000000000
+      internalID: 5225670864464601533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f37c30779f86960800000000000000
+      internalID: 7595595061120155504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_146
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5a921962f192110800000000000000
+      internalID: 1236553823194555857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_147
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 154
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a76aa84c7cb91800800000000000000
+      internalID: 583704868702283686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 154
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141afd8fc08bec750800000000000000
+      internalID: 6327196892356649281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_149
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f483df71b38693900800000000000000
+      internalID: 664677023028688975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_150
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 154
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0714f3f321ed7b70800000000000000
+      internalID: 8898515983286933262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_151
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 154
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738e1ed8ca50bf260800000000000000
+      internalID: 7132300673544218679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_152
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 125
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819a6dd7bba577210800000000000000
+      internalID: 1330631976227875096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_153
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab68b192583884130800000000000000
+      internalID: 3551232914125194938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_154
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202780dbc1e456250800000000000000
+      internalID: 5937237569095365122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_155
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 125
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782c72319dd277250800000000000000
+      internalID: 5942268643691184775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_156
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba08182dc58b81490800000000000000
+      internalID: -7775262047846956885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_157
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7c4ec664ca30070800000000000000
+      internalID: 8071484375652681711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_158
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 125
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9731973a65c71bf50800000000000000
+      internalID: 6895429216032592761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_159
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 125
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec23039653ef41e0800000000000000
+      internalID: -2211298931042472725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_160
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300bd983c52df8470800000000000000
+      internalID: 8399163123597946883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe9caff5aff894a0800000000000000
+      internalID: -6586233366605160707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_162
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 125
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5645f298bf5aa2e0800000000000000
+      internalID: -2113771828752857510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_163
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 115
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea65456b3f78e1480800000000000000
+      internalID: -8926547930595961170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_164
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a80487b6fdf6770800000000000000
+      internalID: 8606343065600297532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_165
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 114
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6efd81ba76edfd60800000000000000
+      internalID: 7925744333881212524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_166
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 114
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c6321f1cfdc3cd0800000000000000
+      internalID: -2576938862695453619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_167
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 113
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb18e01999c56e0800000000000000
+      internalID: -1847432898836055053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_168
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 88
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a8f2df60855a6c0800000000000000
+      internalID: -4132800296001762799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_169
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60597e2dd8b133f0800000000000000
+      internalID: -922753188527255445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f36cfea4e9587a0800000000000000
+      internalID: -6375515652785553573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_171
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 86
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec6370166fb884d0800000000000000
+      internalID: -3132043095752610585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_172
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb440cbb48c7016a0800000000000000
+      internalID: -6480542954258676548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_173
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e2942daa0690110800000000000000
+      internalID: 1227618660223888936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_174
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2bd62c51da8c2c0800000000000000
+      internalID: -4411085526041513241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_175
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 76
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1e1a986ff213c20800000000000000
+      internalID: 3184379147445199313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_176
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 76
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8acbbb3ef5aa4370800000000000000
+      internalID: 8307634973980740239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_177
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 76
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c6502a8f1395b80800000000000000
+      internalID: -8405632285570405366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_178
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 75
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f18d07b84866a30800000000000000
+      internalID: 4208196636252839836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_179
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b29295036ab5d60800000000000000
+      internalID: 7880074699599326070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_180
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d4add005cf5f060800000000000000
+      internalID: 6986767817695186334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_181
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826aa7bf40c1f2c60800000000000000
+      internalID: 7795480287726183976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782c93bf9bf7f5140800000000000000
+      internalID: 4710624172013372039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_183
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 51
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4f9cf5a2d3726e0800000000000000
+      internalID: -1862452668689419044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_184
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24943a93336f8ca30800000000000000
+      internalID: 4235906149412718914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_185
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 42
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286f66f3236fd89f0800000000000000
+      internalID: -464444490876782974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_186
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 42
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba0d0d23e7bb8530800000000000000
+      internalID: 3858379692114250430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_187
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 42
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3279fe92318d61e10800000000000000
+      internalID: 2168157847445018403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 41
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9379a5c803e04d0800000000000000
+      internalID: -3166540108621465107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_189
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 41
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad2032c5a2d09d20800000000000000
+      internalID: 3283355737722465700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_190
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa959c0e9db8e8990800000000000000
+      internalID: -7381808971318208081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_191
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3dfb00a81b16f30800000000000000
+      internalID: 4567126703406568382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_192
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61e2f565062f8ad0800000000000000
+      internalID: -2697895847144529558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_193
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 4
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cafadd76bf307ac0800000000000000
+      internalID: -3859514827628414268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_194
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 4
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d1e418a2dc9ab20800000000000000
+      internalID: 3146271397136702752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_195
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae76d27ceed274560800000000000000
+      internalID: 7297852224744286186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_196
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f18fb2d05c7c390800000000000000
+      internalID: -7798047569405796506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_197
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de02ecccc75a217f0800000000000000
+      internalID: -643269841329970963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_198
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f9646ca5f702190800000000000000
+      internalID: -7989245711104958650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_199
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b64babfac696b0800000000000000
+      internalID: -5289817530040929093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b63f9cfa3e6900a0800000000000000
+      internalID: -6914874553225234763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_201
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3748864166722d250800000000000000
+      internalID: 5967875775601869939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_202
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d557053b23cde5f30800000000000000
+      internalID: 4566329182515131741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_203
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 28
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef79351031073da0800000000000000
+      internalID: -5965297875402784795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_204
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5788699ea5225b030800000000000000
+      internalID: 3509749258466527349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_205
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6895e4dae28394f0800000000000000
+      internalID: -823170361772894101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_206
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5f36d5903d28f80800000000000000
+      internalID: -8105684342138472969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_207
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 30
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a3765ce3d80e760800000000000000
+      internalID: 7485137881429129838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_208
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 28
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf3fcc5b7ee79610800000000000000
+      internalID: 1628032003923197866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_209
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c347e32148d0e70800000000000000
+      internalID: 9083061237368241308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_210
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 28
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb733543a280b540800000000000000
+      internalID: 5021657222270385132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_211
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cee40c5875d3180800000000000000
+      internalID: -9134048237268833145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_212
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dee456808d93ec0800000000000000
+      internalID: -3586598097652880006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_213
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3368aac7d9badff0800000000000000
+      internalID: -10491712645864646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_214
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b67aeed0d039cc0800000000000000
+      internalID: -3705603714906100864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_215
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 12
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c80ea33870c1770800000000000000
+      internalID: 8582743250071227476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_216
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89864a7a985796fd0800000000000000
+      internalID: -2348216496613463912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_217
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 12
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1474ac6a9ddabf1d0800000000000000
+      internalID: -3315865550310455487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_218
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23040e9fc69e6a5f0800000000000000
+      internalID: -745652034025275342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_219
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099bbdca5ff59920800000000000000
+      internalID: 2996581892548696324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_220
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba95cce0477a894e0800000000000000
+      internalID: -1974644319695644245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_221
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64e247555c3216f0800000000000000
+      internalID: -715443053564599190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_222
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 12
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06e64497d9b97130800000000000000
+      internalID: 3565084915597239820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_223
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f88fb7567e53050800000000000000
+      internalID: 5779780119857499936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_224
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c79215da9346c580800000000000000
+      internalID: -8807277688997636158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_225
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e865e3d33c2f699b0800000000000000
+      internalID: -5073601009826244978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_226
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de45df51b664f87e0800000000000000
+      internalID: -1761111503534205715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_227
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df417a5352378cbb0800000000000000
+      internalID: -4915552389623769859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_228
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee604689c0ef9f10800000000000000
+      internalID: 2278787092618178284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_229
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bef20bf77204110800000000000000
+      internalID: 1243036926524517140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_230
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263fcfc1c38d8ae10800000000000000
+      internalID: 2209253369921205090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_231
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 17
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cacdefd15bac1a0800000000000000
+      internalID: -6788414347873047434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_232
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3887fb8933bc169b0800000000000000
+      internalID: -5088562681485494141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_233
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e835fbafb2e45df0800000000000000
+      internalID: -192279571218482972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_234
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 15
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5f661da1b44d9b0800000000000000
+      internalID: -5056333903075805732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_235
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a6b7621d72e8260800000000000000
+      internalID: 7101657441657121406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_236
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a8f4a73efc61200800000000000000
+      internalID: 150536213480049307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Tyrian - Playable Characters - Ships_237
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 17
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77406bf93bd71ff30800000000000000
+      internalID: 4607602104208852087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MS-DOS - Tyrian - Playable Characters - Ships_0: 3184121887301421731
+      MS-DOS - Tyrian - Playable Characters - Ships_1: 6879990804838700053
+      MS-DOS - Tyrian - Playable Characters - Ships_10: -8045870158361126697
+      MS-DOS - Tyrian - Playable Characters - Ships_100: -2141885420610040731
+      MS-DOS - Tyrian - Playable Characters - Ships_101: 5808666899052709527
+      MS-DOS - Tyrian - Playable Characters - Ships_102: 4800161323595722516
+      MS-DOS - Tyrian - Playable Characters - Ships_103: 1299953675342805682
+      MS-DOS - Tyrian - Playable Characters - Ships_104: 2570745852369244300
+      MS-DOS - Tyrian - Playable Characters - Ships_105: 5402555364153495757
+      MS-DOS - Tyrian - Playable Characters - Ships_106: 6860136963791745796
+      MS-DOS - Tyrian - Playable Characters - Ships_107: -3819807735084087102
+      MS-DOS - Tyrian - Playable Characters - Ships_108: -2936481225309474390
+      MS-DOS - Tyrian - Playable Characters - Ships_109: 2154269760944914092
+      MS-DOS - Tyrian - Playable Characters - Ships_11: 3763661440436144232
+      MS-DOS - Tyrian - Playable Characters - Ships_110: -8852793684282840235
+      MS-DOS - Tyrian - Playable Characters - Ships_111: 8646654679794748164
+      MS-DOS - Tyrian - Playable Characters - Ships_112: 7009670009498204537
+      MS-DOS - Tyrian - Playable Characters - Ships_113: 9018751720288939430
+      MS-DOS - Tyrian - Playable Characters - Ships_114: 7172543510626547653
+      MS-DOS - Tyrian - Playable Characters - Ships_115: -2442245997503280521
+      MS-DOS - Tyrian - Playable Characters - Ships_116: -8246263605924099767
+      MS-DOS - Tyrian - Playable Characters - Ships_117: -7764033102357585803
+      MS-DOS - Tyrian - Playable Characters - Ships_118: 2676818311863498362
+      MS-DOS - Tyrian - Playable Characters - Ships_119: -8414964057170600689
+      MS-DOS - Tyrian - Playable Characters - Ships_12: -685163821505847505
+      MS-DOS - Tyrian - Playable Characters - Ships_120: 3538436948712883144
+      MS-DOS - Tyrian - Playable Characters - Ships_121: 3545418971569605318
+      MS-DOS - Tyrian - Playable Characters - Ships_122: -1885354757309882485
+      MS-DOS - Tyrian - Playable Characters - Ships_123: -4757251346860479539
+      MS-DOS - Tyrian - Playable Characters - Ships_124: 7623746367037310062
+      MS-DOS - Tyrian - Playable Characters - Ships_125: 2213032336488028410
+      MS-DOS - Tyrian - Playable Characters - Ships_126: -3836562244866011202
+      MS-DOS - Tyrian - Playable Characters - Ships_127: -6028757797320088954
+      MS-DOS - Tyrian - Playable Characters - Ships_128: -3915958049724316892
+      MS-DOS - Tyrian - Playable Characters - Ships_129: -4460358715285211843
+      MS-DOS - Tyrian - Playable Characters - Ships_13: -6719608865181028923
+      MS-DOS - Tyrian - Playable Characters - Ships_130: 543743465147004205
+      MS-DOS - Tyrian - Playable Characters - Ships_131: -2912901539259500707
+      MS-DOS - Tyrian - Playable Characters - Ships_132: -2947166825413761161
+      MS-DOS - Tyrian - Playable Characters - Ships_133: 4192097166322881249
+      MS-DOS - Tyrian - Playable Characters - Ships_134: -6197790235513567921
+      MS-DOS - Tyrian - Playable Characters - Ships_135: -1009447665985868601
+      MS-DOS - Tyrian - Playable Characters - Ships_136: 1261489681387680907
+      MS-DOS - Tyrian - Playable Characters - Ships_137: 2472518248611051439
+      MS-DOS - Tyrian - Playable Characters - Ships_138: -6988300635842429993
+      MS-DOS - Tyrian - Playable Characters - Ships_139: 2091084534970872495
+      MS-DOS - Tyrian - Playable Characters - Ships_14: -1117114371682409833
+      MS-DOS - Tyrian - Playable Characters - Ships_140: 4199856093017301541
+      MS-DOS - Tyrian - Playable Characters - Ships_141: -5228232249308006771
+      MS-DOS - Tyrian - Playable Characters - Ships_142: 230260534024619870
+      MS-DOS - Tyrian - Playable Characters - Ships_143: 8019499542666084389
+      MS-DOS - Tyrian - Playable Characters - Ships_144: 5225670864464601533
+      MS-DOS - Tyrian - Playable Characters - Ships_145: 7595595061120155504
+      MS-DOS - Tyrian - Playable Characters - Ships_146: 1236553823194555857
+      MS-DOS - Tyrian - Playable Characters - Ships_147: 583704868702283686
+      MS-DOS - Tyrian - Playable Characters - Ships_148: 6327196892356649281
+      MS-DOS - Tyrian - Playable Characters - Ships_149: 664677023028688975
+      MS-DOS - Tyrian - Playable Characters - Ships_15: 4309921367755150185
+      MS-DOS - Tyrian - Playable Characters - Ships_150: 8898515983286933262
+      MS-DOS - Tyrian - Playable Characters - Ships_151: 7132300673544218679
+      MS-DOS - Tyrian - Playable Characters - Ships_152: 1330631976227875096
+      MS-DOS - Tyrian - Playable Characters - Ships_153: 3551232914125194938
+      MS-DOS - Tyrian - Playable Characters - Ships_154: 5937237569095365122
+      MS-DOS - Tyrian - Playable Characters - Ships_155: 5942268643691184775
+      MS-DOS - Tyrian - Playable Characters - Ships_156: -7775262047846956885
+      MS-DOS - Tyrian - Playable Characters - Ships_157: 8071484375652681711
+      MS-DOS - Tyrian - Playable Characters - Ships_158: 6895429216032592761
+      MS-DOS - Tyrian - Playable Characters - Ships_159: -2211298931042472725
+      MS-DOS - Tyrian - Playable Characters - Ships_16: -8417055406655968732
+      MS-DOS - Tyrian - Playable Characters - Ships_160: 8399163123597946883
+      MS-DOS - Tyrian - Playable Characters - Ships_161: -6586233366605160707
+      MS-DOS - Tyrian - Playable Characters - Ships_162: -2113771828752857510
+      MS-DOS - Tyrian - Playable Characters - Ships_163: -8926547930595961170
+      MS-DOS - Tyrian - Playable Characters - Ships_164: 8606343065600297532
+      MS-DOS - Tyrian - Playable Characters - Ships_165: 7925744333881212524
+      MS-DOS - Tyrian - Playable Characters - Ships_166: -2576938862695453619
+      MS-DOS - Tyrian - Playable Characters - Ships_167: -1847432898836055053
+      MS-DOS - Tyrian - Playable Characters - Ships_168: -4132800296001762799
+      MS-DOS - Tyrian - Playable Characters - Ships_169: -922753188527255445
+      MS-DOS - Tyrian - Playable Characters - Ships_17: -4881928462934408363
+      MS-DOS - Tyrian - Playable Characters - Ships_170: -6375515652785553573
+      MS-DOS - Tyrian - Playable Characters - Ships_171: -3132043095752610585
+      MS-DOS - Tyrian - Playable Characters - Ships_172: -6480542954258676548
+      MS-DOS - Tyrian - Playable Characters - Ships_173: 1227618660223888936
+      MS-DOS - Tyrian - Playable Characters - Ships_174: -4411085526041513241
+      MS-DOS - Tyrian - Playable Characters - Ships_175: 3184379147445199313
+      MS-DOS - Tyrian - Playable Characters - Ships_176: 8307634973980740239
+      MS-DOS - Tyrian - Playable Characters - Ships_177: -8405632285570405366
+      MS-DOS - Tyrian - Playable Characters - Ships_178: 4208196636252839836
+      MS-DOS - Tyrian - Playable Characters - Ships_179: 7880074699599326070
+      MS-DOS - Tyrian - Playable Characters - Ships_18: -2041277270552924969
+      MS-DOS - Tyrian - Playable Characters - Ships_180: 6986767817695186334
+      MS-DOS - Tyrian - Playable Characters - Ships_181: 7795480287726183976
+      MS-DOS - Tyrian - Playable Characters - Ships_182: 4710624172013372039
+      MS-DOS - Tyrian - Playable Characters - Ships_183: -1862452668689419044
+      MS-DOS - Tyrian - Playable Characters - Ships_184: 4235906149412718914
+      MS-DOS - Tyrian - Playable Characters - Ships_185: -464444490876782974
+      MS-DOS - Tyrian - Playable Characters - Ships_186: 3858379692114250430
+      MS-DOS - Tyrian - Playable Characters - Ships_187: 2168157847445018403
+      MS-DOS - Tyrian - Playable Characters - Ships_188: -3166540108621465107
+      MS-DOS - Tyrian - Playable Characters - Ships_189: 3283355737722465700
+      MS-DOS - Tyrian - Playable Characters - Ships_19: 8565839769768836279
+      MS-DOS - Tyrian - Playable Characters - Ships_190: -7381808971318208081
+      MS-DOS - Tyrian - Playable Characters - Ships_191: 4567126703406568382
+      MS-DOS - Tyrian - Playable Characters - Ships_192: -2697895847144529558
+      MS-DOS - Tyrian - Playable Characters - Ships_193: -3859514827628414268
+      MS-DOS - Tyrian - Playable Characters - Ships_194: 3146271397136702752
+      MS-DOS - Tyrian - Playable Characters - Ships_195: 7297852224744286186
+      MS-DOS - Tyrian - Playable Characters - Ships_196: -7798047569405796506
+      MS-DOS - Tyrian - Playable Characters - Ships_197: -643269841329970963
+      MS-DOS - Tyrian - Playable Characters - Ships_198: -7989245711104958650
+      MS-DOS - Tyrian - Playable Characters - Ships_199: -5289817530040929093
+      MS-DOS - Tyrian - Playable Characters - Ships_2: -5591101377324644535
+      MS-DOS - Tyrian - Playable Characters - Ships_20: 4000511706541509992
+      MS-DOS - Tyrian - Playable Characters - Ships_200: -6914874553225234763
+      MS-DOS - Tyrian - Playable Characters - Ships_201: 5967875775601869939
+      MS-DOS - Tyrian - Playable Characters - Ships_202: 4566329182515131741
+      MS-DOS - Tyrian - Playable Characters - Ships_203: -5965297875402784795
+      MS-DOS - Tyrian - Playable Characters - Ships_204: 3509749258466527349
+      MS-DOS - Tyrian - Playable Characters - Ships_205: -823170361772894101
+      MS-DOS - Tyrian - Playable Characters - Ships_206: -8105684342138472969
+      MS-DOS - Tyrian - Playable Characters - Ships_207: 7485137881429129838
+      MS-DOS - Tyrian - Playable Characters - Ships_208: 1628032003923197866
+      MS-DOS - Tyrian - Playable Characters - Ships_209: 9083061237368241308
+      MS-DOS - Tyrian - Playable Characters - Ships_21: 6931015492931383760
+      MS-DOS - Tyrian - Playable Characters - Ships_210: 5021657222270385132
+      MS-DOS - Tyrian - Playable Characters - Ships_211: -9134048237268833145
+      MS-DOS - Tyrian - Playable Characters - Ships_212: -3586598097652880006
+      MS-DOS - Tyrian - Playable Characters - Ships_213: -10491712645864646
+      MS-DOS - Tyrian - Playable Characters - Ships_214: -3705603714906100864
+      MS-DOS - Tyrian - Playable Characters - Ships_215: 8582743250071227476
+      MS-DOS - Tyrian - Playable Characters - Ships_216: -2348216496613463912
+      MS-DOS - Tyrian - Playable Characters - Ships_217: -3315865550310455487
+      MS-DOS - Tyrian - Playable Characters - Ships_218: -745652034025275342
+      MS-DOS - Tyrian - Playable Characters - Ships_219: 2996581892548696324
+      MS-DOS - Tyrian - Playable Characters - Ships_22: -8235509595648379562
+      MS-DOS - Tyrian - Playable Characters - Ships_220: -1974644319695644245
+      MS-DOS - Tyrian - Playable Characters - Ships_221: -715443053564599190
+      MS-DOS - Tyrian - Playable Characters - Ships_222: 3565084915597239820
+      MS-DOS - Tyrian - Playable Characters - Ships_223: 5779780119857499936
+      MS-DOS - Tyrian - Playable Characters - Ships_224: -8807277688997636158
+      MS-DOS - Tyrian - Playable Characters - Ships_225: -5073601009826244978
+      MS-DOS - Tyrian - Playable Characters - Ships_226: -1761111503534205715
+      MS-DOS - Tyrian - Playable Characters - Ships_227: -4915552389623769859
+      MS-DOS - Tyrian - Playable Characters - Ships_228: 2278787092618178284
+      MS-DOS - Tyrian - Playable Characters - Ships_229: 1243036926524517140
+      MS-DOS - Tyrian - Playable Characters - Ships_23: 529854726712319906
+      MS-DOS - Tyrian - Playable Characters - Ships_230: 2209253369921205090
+      MS-DOS - Tyrian - Playable Characters - Ships_231: -6788414347873047434
+      MS-DOS - Tyrian - Playable Characters - Ships_232: -5088562681485494141
+      MS-DOS - Tyrian - Playable Characters - Ships_233: -192279571218482972
+      MS-DOS - Tyrian - Playable Characters - Ships_234: -5056333903075805732
+      MS-DOS - Tyrian - Playable Characters - Ships_235: 7101657441657121406
+      MS-DOS - Tyrian - Playable Characters - Ships_236: 150536213480049307
+      MS-DOS - Tyrian - Playable Characters - Ships_237: 4607602104208852087
+      MS-DOS - Tyrian - Playable Characters - Ships_24: -6121327037126557428
+      MS-DOS - Tyrian - Playable Characters - Ships_25: 2439132477649158688
+      MS-DOS - Tyrian - Playable Characters - Ships_26: -219460744521773949
+      MS-DOS - Tyrian - Playable Characters - Ships_27: -886083355560198048
+      MS-DOS - Tyrian - Playable Characters - Ships_28: -8353319333801376662
+      MS-DOS - Tyrian - Playable Characters - Ships_29: 445066985095462390
+      MS-DOS - Tyrian - Playable Characters - Ships_3: -2823869310021305092
+      MS-DOS - Tyrian - Playable Characters - Ships_30: 3925958654265041745
+      MS-DOS - Tyrian - Playable Characters - Ships_31: -2050380113007868204
+      MS-DOS - Tyrian - Playable Characters - Ships_32: -6251174448706420969
+      MS-DOS - Tyrian - Playable Characters - Ships_33: 1517763858132485054
+      MS-DOS - Tyrian - Playable Characters - Ships_34: -1916150123415677584
+      MS-DOS - Tyrian - Playable Characters - Ships_35: 4994120017662508887
+      MS-DOS - Tyrian - Playable Characters - Ships_36: -7850624259242787880
+      MS-DOS - Tyrian - Playable Characters - Ships_37: 885484734808056382
+      MS-DOS - Tyrian - Playable Characters - Ships_38: -3621882114424219027
+      MS-DOS - Tyrian - Playable Characters - Ships_39: 218690753255568005
+      MS-DOS - Tyrian - Playable Characters - Ships_4: -7843020061482685240
+      MS-DOS - Tyrian - Playable Characters - Ships_40: 6446181087035297302
+      MS-DOS - Tyrian - Playable Characters - Ships_41: -3509908563392214904
+      MS-DOS - Tyrian - Playable Characters - Ships_42: 8601224856492480782
+      MS-DOS - Tyrian - Playable Characters - Ships_43: 4930415240014445767
+      MS-DOS - Tyrian - Playable Characters - Ships_44: -3276058174375460656
+      MS-DOS - Tyrian - Playable Characters - Ships_45: -7905471321871600350
+      MS-DOS - Tyrian - Playable Characters - Ships_46: 246895415226823218
+      MS-DOS - Tyrian - Playable Characters - Ships_47: -7849087020733906952
+      MS-DOS - Tyrian - Playable Characters - Ships_48: 678058705558484664
+      MS-DOS - Tyrian - Playable Characters - Ships_49: 956789201244519123
+      MS-DOS - Tyrian - Playable Characters - Ships_5: -7482404255037505055
+      MS-DOS - Tyrian - Playable Characters - Ships_50: -4909177207816784848
+      MS-DOS - Tyrian - Playable Characters - Ships_51: -3901181804253792841
+      MS-DOS - Tyrian - Playable Characters - Ships_52: -5867016663081816173
+      MS-DOS - Tyrian - Playable Characters - Ships_53: -2906022609464780853
+      MS-DOS - Tyrian - Playable Characters - Ships_54: -571993158189441348
+      MS-DOS - Tyrian - Playable Characters - Ships_55: 7065005415362704313
+      MS-DOS - Tyrian - Playable Characters - Ships_56: 5466573357560494338
+      MS-DOS - Tyrian - Playable Characters - Ships_57: -5460773917659114057
+      MS-DOS - Tyrian - Playable Characters - Ships_58: 5809240842672152880
+      MS-DOS - Tyrian - Playable Characters - Ships_59: -6168454397027470772
+      MS-DOS - Tyrian - Playable Characters - Ships_6: 7355665949204666402
+      MS-DOS - Tyrian - Playable Characters - Ships_60: 2419139080398451813
+      MS-DOS - Tyrian - Playable Characters - Ships_61: -2099073771248894226
+      MS-DOS - Tyrian - Playable Characters - Ships_62: 7344126220117566459
+      MS-DOS - Tyrian - Playable Characters - Ships_63: 5293668219813447544
+      MS-DOS - Tyrian - Playable Characters - Ships_64: -4225530718822762354
+      MS-DOS - Tyrian - Playable Characters - Ships_65: -7266723500683072792
+      MS-DOS - Tyrian - Playable Characters - Ships_66: 1465990321471583646
+      MS-DOS - Tyrian - Playable Characters - Ships_67: 1992193650407168229
+      MS-DOS - Tyrian - Playable Characters - Ships_68: 18471156832276713
+      MS-DOS - Tyrian - Playable Characters - Ships_69: -5432138838879431244
+      MS-DOS - Tyrian - Playable Characters - Ships_7: -647707413201445415
+      MS-DOS - Tyrian - Playable Characters - Ships_70: -3077813118642132953
+      MS-DOS - Tyrian - Playable Characters - Ships_71: -5198907022537739433
+      MS-DOS - Tyrian - Playable Characters - Ships_72: -51612798476243026
+      MS-DOS - Tyrian - Playable Characters - Ships_73: 8608066572878816759
+      MS-DOS - Tyrian - Playable Characters - Ships_74: 6360068298652460318
+      MS-DOS - Tyrian - Playable Characters - Ships_75: 7331416644384732169
+      MS-DOS - Tyrian - Playable Characters - Ships_76: -9146801424821466902
+      MS-DOS - Tyrian - Playable Characters - Ships_77: 1264428904234134150
+      MS-DOS - Tyrian - Playable Characters - Ships_78: 1961824071330938289
+      MS-DOS - Tyrian - Playable Characters - Ships_79: 8249497576470812004
+      MS-DOS - Tyrian - Playable Characters - Ships_8: -4360599182460341062
+      MS-DOS - Tyrian - Playable Characters - Ships_80: -5518180440482223672
+      MS-DOS - Tyrian - Playable Characters - Ships_81: 2412607183300617366
+      MS-DOS - Tyrian - Playable Characters - Ships_82: 3300935071136778327
+      MS-DOS - Tyrian - Playable Characters - Ships_83: -279990625000067592
+      MS-DOS - Tyrian - Playable Characters - Ships_84: -1795144741307818307
+      MS-DOS - Tyrian - Playable Characters - Ships_85: -9110032873016441692
+      MS-DOS - Tyrian - Playable Characters - Ships_86: -6640094239666282735
+      MS-DOS - Tyrian - Playable Characters - Ships_87: -1440625076043063502
+      MS-DOS - Tyrian - Playable Characters - Ships_88: -1777888404690209602
+      MS-DOS - Tyrian - Playable Characters - Ships_89: 6716332572077094546
+      MS-DOS - Tyrian - Playable Characters - Ships_9: -6816358451768815022
+      MS-DOS - Tyrian - Playable Characters - Ships_90: 4364923817106441774
+      MS-DOS - Tyrian - Playable Characters - Ships_91: -8478524345155507152
+      MS-DOS - Tyrian - Playable Characters - Ships_92: -4914942638805695575
+      MS-DOS - Tyrian - Playable Characters - Ships_93: -2851083612695801239
+      MS-DOS - Tyrian - Playable Characters - Ships_94: -5718858862578831037
+      MS-DOS - Tyrian - Playable Characters - Ships_95: 1933334200142074121
+      MS-DOS - Tyrian - Playable Characters - Ships_96: 415079140739926790
+      MS-DOS - Tyrian - Playable Characters - Ships_97: -3283660102287833301
+      MS-DOS - Tyrian - Playable Characters - Ships_98: 2363803064934413876
+      MS-DOS - Tyrian - Playable Characters - Ships_99: -3196075149911268031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
