@@ -30,7 +30,7 @@ public class PlayerSpaceShip : MonoBehaviour
         float linearVelocity = currentVelocity.magnitude;
         linearVelocity = Mathf.Clamp(linearVelocity, 0, maxSpeed);
         currentVelocity = currentVelocity.normalized * linearVelocity;
-        
+
         transform.Translate(currentVelocity * Time.deltaTime);
     }
 
