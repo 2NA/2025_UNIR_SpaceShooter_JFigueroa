@@ -1,12 +1,17 @@
-using System;
+ using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerSpaceShip : MonoBehaviour
 {
+    [Header("Movement")]
     [SerializeField] float maxSpeed = 100f;
     [SerializeField] float acceleration = 300f;
 
+    [Header("Shooting")]
+    [SerializeField] GameObject projectilePrefab;
+
+    [Header("Controls")]
     [SerializeField] InputActionReference move;
     [SerializeField] InputActionReference shoot;
 
@@ -23,8 +28,14 @@ public class PlayerSpaceShip : MonoBehaviour
     }
 
     Vector2 currentVelocity = Vector2.zero;
+    const float rawMoveThresholdForBreaking = 0.1f;
     void Update()
     {
+        if (rawMove.magnitude < rawMoveThresholdForBreaking)
+        {
+            currentVelocity *= 0.1f * Time.deltaTime;
+        }
+
         currentVelocity += rawMove * acceleration * Time.deltaTime;
 
         float linearVelocity = currentVelocity.magnitude;
@@ -54,6 +65,6 @@ public class PlayerSpaceShip : MonoBehaviour
 
     private void OnShoot(InputAction.CallbackContext context)
     {
-        throw new NotImplementedException();
+        Instantiate(projectilePrefab, transform.position, Quaternion.identity);
     }
 }

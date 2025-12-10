@@ -1,0 +1,3172 @@
+fileFormatVersion: 2
+guid: 7e1db694bb377cd9b8b8eb68ec5eacb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6410166904211339977
+    second: Arcade - Syvalion - Playable Characters - Syvalion_0
+  - first:
+      213: -5719908743942197851
+    second: Arcade - Syvalion - Playable Characters - Syvalion_1
+  - first:
+      213: 2368108046898861704
+    second: Arcade - Syvalion - Playable Characters - Syvalion_2
+  - first:
+      213: 7732863704596611857
+    second: Arcade - Syvalion - Playable Characters - Syvalion_3
+  - first:
+      213: 2297536451795205754
+    second: Arcade - Syvalion - Playable Characters - Syvalion_4
+  - first:
+      213: 3143877214479446359
+    second: Arcade - Syvalion - Playable Characters - Syvalion_5
+  - first:
+      213: -3455830459258558147
+    second: Arcade - Syvalion - Playable Characters - Syvalion_6
+  - first:
+      213: -3994754031659047193
+    second: Arcade - Syvalion - Playable Characters - Syvalion_7
+  - first:
+      213: -2965770351300544333
+    second: Arcade - Syvalion - Playable Characters - Syvalion_8
+  - first:
+      213: -7077772641899818964
+    second: Arcade - Syvalion - Playable Characters - Syvalion_9
+  - first:
+      213: 2363580588059200065
+    second: Arcade - Syvalion - Playable Characters - Syvalion_10
+  - first:
+      213: -5069068893977899246
+    second: Arcade - Syvalion - Playable Characters - Syvalion_11
+  - first:
+      213: 7267379319469821319
+    second: Arcade - Syvalion - Playable Characters - Syvalion_12
+  - first:
+      213: 1564382188176601981
+    second: Arcade - Syvalion - Playable Characters - Syvalion_13
+  - first:
+      213: 8712625865198014022
+    second: Arcade - Syvalion - Playable Characters - Syvalion_14
+  - first:
+      213: 3057629201357330484
+    second: Arcade - Syvalion - Playable Characters - Syvalion_15
+  - first:
+      213: -8836355766723713284
+    second: Arcade - Syvalion - Playable Characters - Syvalion_16
+  - first:
+      213: -9089160827576567869
+    second: Arcade - Syvalion - Playable Characters - Syvalion_17
+  - first:
+      213: -4999382689720478585
+    second: Arcade - Syvalion - Playable Characters - Syvalion_18
+  - first:
+      213: -2774156886545804548
+    second: Arcade - Syvalion - Playable Characters - Syvalion_19
+  - first:
+      213: -3607683591088282705
+    second: Arcade - Syvalion - Playable Characters - Syvalion_20
+  - first:
+      213: -7659645199089895950
+    second: Arcade - Syvalion - Playable Characters - Syvalion_21
+  - first:
+      213: -7563896040385290925
+    second: Arcade - Syvalion - Playable Characters - Syvalion_22
+  - first:
+      213: 7750854990283597236
+    second: Arcade - Syvalion - Playable Characters - Syvalion_23
+  - first:
+      213: -8595359030800989158
+    second: Arcade - Syvalion - Playable Characters - Syvalion_24
+  - first:
+      213: -1428911900624748963
+    second: Arcade - Syvalion - Playable Characters - Syvalion_25
+  - first:
+      213: 7959373981696558964
+    second: Arcade - Syvalion - Playable Characters - Syvalion_26
+  - first:
+      213: -1424770566221316489
+    second: Arcade - Syvalion - Playable Characters - Syvalion_27
+  - first:
+      213: 2840269393515418152
+    second: Arcade - Syvalion - Playable Characters - Syvalion_28
+  - first:
+      213: 6114166129035764328
+    second: Arcade - Syvalion - Playable Characters - Syvalion_29
+  - first:
+      213: -1048014763898101161
+    second: Arcade - Syvalion - Playable Characters - Syvalion_30
+  - first:
+      213: -237205610705221391
+    second: Arcade - Syvalion - Playable Characters - Syvalion_31
+  - first:
+      213: 531165499982570732
+    second: Arcade - Syvalion - Playable Characters - Syvalion_32
+  - first:
+      213: 4932518148075616926
+    second: Arcade - Syvalion - Playable Characters - Syvalion_33
+  - first:
+      213: 6821331487768289021
+    second: Arcade - Syvalion - Playable Characters - Syvalion_34
+  - first:
+      213: 6109822939002564594
+    second: Arcade - Syvalion - Playable Characters - Syvalion_35
+  - first:
+      213: -3580526325143816480
+    second: Arcade - Syvalion - Playable Characters - Syvalion_36
+  - first:
+      213: 6843259687015926064
+    second: Arcade - Syvalion - Playable Characters - Syvalion_37
+  - first:
+      213: 6205692036203062786
+    second: Arcade - Syvalion - Playable Characters - Syvalion_38
+  - first:
+      213: -5460520730293633682
+    second: Arcade - Syvalion - Playable Characters - Syvalion_39
+  - first:
+      213: 4025103784293453157
+    second: Arcade - Syvalion - Playable Characters - Syvalion_40
+  - first:
+      213: -2917588902620222564
+    second: Arcade - Syvalion - Playable Characters - Syvalion_41
+  - first:
+      213: -8885100457320178768
+    second: Arcade - Syvalion - Playable Characters - Syvalion_42
+  - first:
+      213: -8189348289345090717
+    second: Arcade - Syvalion - Playable Characters - Syvalion_43
+  - first:
+      213: -8908492238773152887
+    second: Arcade - Syvalion - Playable Characters - Syvalion_44
+  - first:
+      213: 1299151161991628949
+    second: Arcade - Syvalion - Playable Characters - Syvalion_45
+  - first:
+      213: 6768956563192898124
+    second: Arcade - Syvalion - Playable Characters - Syvalion_46
+  - first:
+      213: 6445962683205388092
+    second: Arcade - Syvalion - Playable Characters - Syvalion_47
+  - first:
+      213: 7520002404293531632
+    second: Arcade - Syvalion - Playable Characters - Syvalion_48
+  - first:
+      213: 6544499945957497926
+    second: Arcade - Syvalion - Playable Characters - Syvalion_49
+  - first:
+      213: -6943055855966479699
+    second: Arcade - Syvalion - Playable Characters - Syvalion_50
+  - first:
+      213: 6810191425035725089
+    second: Arcade - Syvalion - Playable Characters - Syvalion_51
+  - first:
+      213: -8041281265815764649
+    second: Arcade - Syvalion - Playable Characters - Syvalion_52
+  - first:
+      213: -2142879064174920008
+    second: Arcade - Syvalion - Playable Characters - Syvalion_53
+  - first:
+      213: 2088406060942962935
+    second: Arcade - Syvalion - Playable Characters - Syvalion_54
+  - first:
+      213: 8984183604683382983
+    second: Arcade - Syvalion - Playable Characters - Syvalion_55
+  - first:
+      213: -7710593367686677709
+    second: Arcade - Syvalion - Playable Characters - Syvalion_56
+  - first:
+      213: -8876220901596335229
+    second: Arcade - Syvalion - Playable Characters - Syvalion_57
+  - first:
+      213: -618653184060509411
+    second: Arcade - Syvalion - Playable Characters - Syvalion_58
+  - first:
+      213: 6435933570333616695
+    second: Arcade - Syvalion - Playable Characters - Syvalion_59
+  - first:
+      213: -3035063724334652561
+    second: Arcade - Syvalion - Playable Characters - Syvalion_60
+  - first:
+      213: -77991066338533395
+    second: Arcade - Syvalion - Playable Characters - Syvalion_61
+  - first:
+      213: -5857305356154845825
+    second: Arcade - Syvalion - Playable Characters - Syvalion_62
+  - first:
+      213: -3670943819998923695
+    second: Arcade - Syvalion - Playable Characters - Syvalion_63
+  - first:
+      213: 86616648377600464
+    second: Arcade - Syvalion - Playable Characters - Syvalion_64
+  - first:
+      213: 243983046798778794
+    second: Arcade - Syvalion - Playable Characters - Syvalion_65
+  - first:
+      213: 1745457130947936054
+    second: Arcade - Syvalion - Playable Characters - Syvalion_66
+  - first:
+      213: 596670349581064527
+    second: Arcade - Syvalion - Playable Characters - Syvalion_67
+  - first:
+      213: -366534965251988565
+    second: Arcade - Syvalion - Playable Characters - Syvalion_68
+  - first:
+      213: -1344932776998609733
+    second: Arcade - Syvalion - Playable Characters - Syvalion_69
+  - first:
+      213: 2866113576928586048
+    second: Arcade - Syvalion - Playable Characters - Syvalion_70
+  - first:
+      213: 7935568295846015709
+    second: Arcade - Syvalion - Playable Characters - Syvalion_71
+  - first:
+      213: 4345295646563739328
+    second: Arcade - Syvalion - Playable Characters - Syvalion_72
+  - first:
+      213: -3660508503472800655
+    second: Arcade - Syvalion - Playable Characters - Syvalion_73
+  - first:
+      213: 6687730015512504395
+    second: Arcade - Syvalion - Playable Characters - Syvalion_74
+  - first:
+      213: 5696369453626152462
+    second: Arcade - Syvalion - Playable Characters - Syvalion_75
+  - first:
+      213: 7010067480178361900
+    second: Arcade - Syvalion - Playable Characters - Syvalion_76
+  - first:
+      213: -8678019432874562286
+    second: Arcade - Syvalion - Playable Characters - Syvalion_77
+  - first:
+      213: 6183767589959373214
+    second: Arcade - Syvalion - Playable Characters - Syvalion_78
+  - first:
+      213: 2899526857621856871
+    second: Arcade - Syvalion - Playable Characters - Syvalion_79
+  - first:
+      213: -4865418778349430144
+    second: Arcade - Syvalion - Playable Characters - Syvalion_80
+  - first:
+      213: -3727816944264650514
+    second: Arcade - Syvalion - Playable Characters - Syvalion_81
+  - first:
+      213: -750000029474411685
+    second: Arcade - Syvalion - Playable Characters - Syvalion_82
+  - first:
+      213: 8234101231094937432
+    second: Arcade - Syvalion - Playable Characters - Syvalion_83
+  - first:
+      213: -4299885084546330889
+    second: Arcade - Syvalion - Playable Characters - Syvalion_84
+  - first:
+      213: -743335837335236566
+    second: Arcade - Syvalion - Playable Characters - Syvalion_85
+  - first:
+      213: -2878558289422750871
+    second: Arcade - Syvalion - Playable Characters - Syvalion_86
+  - first:
+      213: 5917242184128457852
+    second: Arcade - Syvalion - Playable Characters - Syvalion_87
+  - first:
+      213: 1572875915229915017
+    second: Arcade - Syvalion - Playable Characters - Syvalion_88
+  - first:
+      213: 5246661681837755765
+    second: Arcade - Syvalion - Playable Characters - Syvalion_89
+  - first:
+      213: -3430902328004440444
+    second: Arcade - Syvalion - Playable Characters - Syvalion_90
+  - first:
+      213: -5831662376993481654
+    second: Arcade - Syvalion - Playable Characters - Syvalion_91
+  - first:
+      213: 6379736056250497406
+    second: Arcade - Syvalion - Playable Characters - Syvalion_92
+  - first:
+      213: 8819501633488379145
+    second: Arcade - Syvalion - Playable Characters - Syvalion_93
+  - first:
+      213: 1713326360385441851
+    second: Arcade - Syvalion - Playable Characters - Syvalion_94
+  - first:
+      213: -711151579153367238
+    second: Arcade - Syvalion - Playable Characters - Syvalion_95
+  - first:
+      213: -4537149023667087027
+    second: Arcade - Syvalion - Playable Characters - Syvalion_96
+  - first:
+      213: -7243878040325863758
+    second: Arcade - Syvalion - Playable Characters - Syvalion_97
+  - first:
+      213: 4764374827497807914
+    second: Arcade - Syvalion - Playable Characters - Syvalion_98
+  - first:
+      213: -1517316217281629177
+    second: Arcade - Syvalion - Playable Characters - Syvalion_99
+  - first:
+      213: 6282455092096257324
+    second: Arcade - Syvalion - Playable Characters - Syvalion_100
+  - first:
+      213: 4516789550326222654
+    second: Arcade - Syvalion - Playable Characters - Syvalion_101
+  - first:
+      213: 3314018265664997406
+    second: Arcade - Syvalion - Playable Characters - Syvalion_102
+  - first:
+      213: -3529809848875185843
+    second: Arcade - Syvalion - Playable Characters - Syvalion_103
+  - first:
+      213: -2538356303536645911
+    second: Arcade - Syvalion - Playable Characters - Syvalion_104
+  - first:
+      213: 2075211711655623964
+    second: Arcade - Syvalion - Playable Characters - Syvalion_105
+  - first:
+      213: 8190602025744059399
+    second: Arcade - Syvalion - Playable Characters - Syvalion_106
+  - first:
+      213: 7524480613970838647
+    second: Arcade - Syvalion - Playable Characters - Syvalion_107
+  - first:
+      213: 4598862713289669133
+    second: Arcade - Syvalion - Playable Characters - Syvalion_108
+  - first:
+      213: -5172195658133939006
+    second: Arcade - Syvalion - Playable Characters - Syvalion_109
+  - first:
+      213: -896604875655173982
+    second: Arcade - Syvalion - Playable Characters - Syvalion_110
+  - first:
+      213: -5695569990910656633
+    second: Arcade - Syvalion - Playable Characters - Syvalion_111
+  - first:
+      213: -2406313308550397259
+    second: Arcade - Syvalion - Playable Characters - Syvalion_112
+  - first:
+      213: -3465647872380804833
+    second: Arcade - Syvalion - Playable Characters - Syvalion_113
+  - first:
+      213: 608147998273375332
+    second: Arcade - Syvalion - Playable Characters - Syvalion_114
+  - first:
+      213: 6869808333641867247
+    second: Arcade - Syvalion - Playable Characters - Syvalion_115
+  - first:
+      213: -8295952193721159606
+    second: Arcade - Syvalion - Playable Characters - Syvalion_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 706
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7358483c9238a07a0800000000000000
+      internalID: -6410166904211339977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 704
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adaca18d4dce90b0800000000000000
+      internalID: -5719908743942197851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 703
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886962dc8b53dd020800000000000000
+      internalID: 2368108046898861704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 704
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1130ef0a196a05b60800000000000000
+      internalID: 7732863704596611857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 703
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eb3c3ea3d72ef10800000000000000
+      internalID: 2297536451795205754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 703
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751fd7a6bab41ab20800000000000000
+      internalID: 3143877214479446359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 703
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d392befc18c6a00d0800000000000000
+      internalID: -3455830459258558147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 701
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e627e19f58cf88c0800000000000000
+      internalID: -3994754031659047193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 701
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8785d249777d6d0800000000000000
+      internalID: -2965770351300544333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 708
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2055962843b6cd90800000000000000
+      internalID: -7077772641899818964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 707
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a0745a5002dc020800000000000000
+      internalID: 2363580588059200065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 706
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f0770b2bc07a9b0800000000000000
+      internalID: -5069068893977899246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 706
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dc401acfaead460800000000000000
+      internalID: 7267379319469821319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 704
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73f63bcf4dc5b510800000000000000
+      internalID: 1564382188176601981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 703
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e020c101779e870800000000000000
+      internalID: 8712625865198014022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_15
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 702
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438d3c10f81ee6a20800000000000000
+      internalID: 3057629201357330484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 655
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf665774f35fe5580800000000000000
+      internalID: -8836355766723713284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 653
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c737ed3260dcd180800000000000000
+      internalID: -9089160827576567869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 652
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78459fa7eef9e9ab0800000000000000
+      internalID: -4999382689720478585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 653
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2db3282073089d0800000000000000
+      internalID: -2774156886545804548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 651
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa36d2363eeeeedc0800000000000000
+      internalID: -3607683591088282705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 650
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f578b2264973b590800000000000000
+      internalID: -7659645199089895950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 651
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dd9d260a4a70790800000000000000
+      internalID: -7563896040385290925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 651
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5ea614c81909b60800000000000000
+      internalID: 7750854990283597236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 653
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14492c608627b880800000000000000
+      internalID: -8595359030800989158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 654
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5efee3723c7b2ce0800000000000000
+      internalID: -1428911900624748963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 652
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477828d3770657e60800000000000000
+      internalID: 7959373981696558964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 653
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e32f108b23a3ce0800000000000000
+      internalID: -1424770566221316489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_28
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 652
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82296ea07f9aa6720800000000000000
+      internalID: 2840269393515418152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_29
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 651
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862e6ea33b1e9d450800000000000000
+      internalID: 6114166129035764328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_30
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 650
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7522d76ff14b471f0800000000000000
+      internalID: -1048014763898101161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_31
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 652
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f88f2bf0c645bcf0800000000000000
+      internalID: -237205610705221391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 587
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4676f35341f5700800000000000000
+      internalID: 531165499982570732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 586
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af6304f13d37440800000000000000
+      internalID: 4932518148075616926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 586
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe9d9fd8dc3aae50800000000000000
+      internalID: 6821331487768289021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 591
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffe7cf77937ac450800000000000000
+      internalID: 6109822939002564594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 596
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e63ed8174a6f4ec0800000000000000
+      internalID: -3580526325143816480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 598
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039c55e9d6428fe50800000000000000
+      internalID: 6843259687015926064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_38
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 599
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206aa5b170c0f1650800000000000000
+      internalID: 6205692036203062786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 599
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6df03ea3555834b0800000000000000
+      internalID: -5460520730293633682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 601
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d44eed09a0cd730800000000000000
+      internalID: 4025103784293453157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 523
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b23b2e954a287d0800000000000000
+      internalID: -2917588902620222564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 523
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb15c79538c1b480800000000000000
+      internalID: -8885100457320178768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 523
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b02afae17995e80800000000000000
+      internalID: -8189348289345090717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 523
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9831a9f028dae5480800000000000000
+      internalID: -8908492238773152887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 524
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5980c004913870210800000000000000
+      internalID: 1299151161991628949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_46
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 530
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c426929712a20fd50800000000000000
+      internalID: 6768956563192898124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_47
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 533
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3781ef78e8a47950800000000000000
+      internalID: 6445962683205388092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 449
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7dff1185a6c5860800000000000000
+      internalID: 7520002404293531632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_49
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 447
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1c5fc60cb2da50800000000000000
+      internalID: 6544499945957497926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 444
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa1c612c7f45af90800000000000000
+      internalID: -6943055855966479699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 442
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1296aa5e409a28e50800000000000000
+      internalID: 6810191425035725089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 435
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7514c041b41a76090800000000000000
+      internalID: -8041281265815764649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_53
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 431
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be7b3738d6f242e0800000000000000
+      internalID: -2142879064174920008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_54
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 432
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f037416f328bfc10800000000000000
+      internalID: 2088406060942962935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_55
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 433
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0aa02636b3eac70800000000000000
+      internalID: 8984183604683382983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_56
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 431
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b7d8f3f287ef490800000000000000
+      internalID: -7710593367686677709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_57
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 354
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383f3744e1451d480800000000000000
+      internalID: -8876220901596335229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_58
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 352
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13b8e4f43a1a67f0800000000000000
+      internalID: -618653184060509411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_59
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 351
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a2fb1bb77015950800000000000000
+      internalID: 6435933570333616695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_60
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 350
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63eb588f9941e5d0800000000000000
+      internalID: -3035063724334652561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_61
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 346
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defdc33d98beaeef0800000000000000
+      internalID: -77991066338533395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_62
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 343
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75c569dfcba6bea0800000000000000
+      internalID: -5857305356154845825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_63
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 339
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1547c829b003e0dc0800000000000000
+      internalID: -3670943819998923695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_64
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 275
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d98e2ef169b33100800000000000000
+      internalID: 86616648377600464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 274
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1a8a3d94dc26300800000000000000
+      internalID: 243983046798778794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_66
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 271
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ff2d4430c193810800000000000000
+      internalID: 1745457130947936054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_67
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 272
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4999ca858cc74800800000000000000
+      internalID: 596670349581064527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 270
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3256e146ec9eaf0800000000000000
+      internalID: -366534965251988565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 31
+        width: 539
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcd73cd3c6d55de0800000000000000
+      internalID: -1344932776998609733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_70
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a0c6ec1b76c720800000000000000
+      internalID: 2866113576928586048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_71
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2f0c4125dc02e60800000000000000
+      internalID: 7935568295846015709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_72
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6ab714e579d4c30800000000000000
+      internalID: 4345295646563739328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_73
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf43909e2433dc0800000000000000
+      internalID: -3660508503472800655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48275814079fcc50800000000000000
+      internalID: 6687730015512504395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_75
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06d5c066d19d0f40800000000000000
+      internalID: 5696369453626152462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c268c877b33c84160800000000000000
+      internalID: 7010067480178361900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_77
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d239dcd4b719780800000000000000
+      internalID: -8678019432874562286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 10
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911a1d2cd721d550800000000000000
+      internalID: 6183767589959373214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762614d80503d3820800000000000000
+      internalID: 2899526857621856871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_80
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a97f0366f8a7cb0800000000000000
+      internalID: -4865418778349430144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee06c617d32244cc0800000000000000
+      internalID: -3727816944264650514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_82
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b25a562f67795f0800000000000000
+      internalID: -750000029474411685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857350c8177654270800000000000000
+      internalID: 8234101231094937432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_84
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe8d902c4db354c0800000000000000
+      internalID: -4299885084546330889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20d0da8ef32fa5f0800000000000000
+      internalID: -743335837335236566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_86
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b63bdac7e4d08d0800000000000000
+      internalID: -2878558289422750871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_87
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ceee26a644e1250800000000000000
+      internalID: 5917242184128457852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_88
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987eb0bbf4af3d510800000000000000
+      internalID: 1572875915229915017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_89
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 11
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dc79a6003efc840800000000000000
+      internalID: 5246661681837755765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_90
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e0c38a28cf260d0800000000000000
+      internalID: -3430902328004440444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_91
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c1b4137f5c11fa0800000000000000
+      internalID: -5831662376993481654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_92
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79ff815420698850800000000000000
+      internalID: 6379736056250497406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_93
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d5d08020a256a70800000000000000
+      internalID: 8819501633488379145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_94
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3056174f35f6c710800000000000000
+      internalID: 1713326360385441851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_95
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ffa17186b7126f0800000000000000
+      internalID: -711151579153367238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_96
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491057700fc801c0800000000000000
+      internalID: -4537149023667087027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_97
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6cf125d43987b90800000000000000
+      internalID: -7243878040325863758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20e1d1b9a57e1240800000000000000
+      internalID: 4764374827497807914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_99
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7043df080f861fae0800000000000000
+      internalID: -1517316217281629177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_100
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 11
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dcdb1de93cf2750800000000000000
+      internalID: 6282455092096257324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_101
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f04604a2cdeae30800000000000000
+      internalID: 4516789550326222654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_102
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e184e10ed02cdfd20800000000000000
+      internalID: 3314018265664997406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_103
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 11
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498e19e4a8930fc0800000000000000
+      internalID: -3529809848875185843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_104
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 11
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e813560462f5ccd0800000000000000
+      internalID: -2538356303536645911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_105
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1db6fa8e02accc10800000000000000
+      internalID: 2075211711655623964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_106
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cc111952ddaa170800000000000000
+      internalID: 8190602025744059399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_107
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7748b0380435c6860800000000000000
+      internalID: 7524480613970838647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_108
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a7b6c954172df30800000000000000
+      internalID: 4598862713289669133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_109
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccdb10d37ba838b0800000000000000
+      internalID: -5172195658133939006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_110
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8a0b2bd9e9e83f0800000000000000
+      internalID: -896604875655173982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_111
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f356a054545f0b0800000000000000
+      internalID: -5695569990910656633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_112
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b20f898bce0b9ed0800000000000000
+      internalID: -2406313308550397259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_113
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1167223f9b87efc0800000000000000
+      internalID: -3465647872380804833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c03ffd163907800800000000000000
+      internalID: 608147998273375332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_115
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefddb91846765f50800000000000000
+      internalID: 6869808333641867247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Syvalion - Playable Characters - Syvalion_116
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 9
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40b0a30f6bdedc80800000000000000
+      internalID: -8295952193721159606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Syvalion - Playable Characters - Syvalion_0: -6410166904211339977
+      Arcade - Syvalion - Playable Characters - Syvalion_1: -5719908743942197851
+      Arcade - Syvalion - Playable Characters - Syvalion_10: 2363580588059200065
+      Arcade - Syvalion - Playable Characters - Syvalion_100: 6282455092096257324
+      Arcade - Syvalion - Playable Characters - Syvalion_101: 4516789550326222654
+      Arcade - Syvalion - Playable Characters - Syvalion_102: 3314018265664997406
+      Arcade - Syvalion - Playable Characters - Syvalion_103: -3529809848875185843
+      Arcade - Syvalion - Playable Characters - Syvalion_104: -2538356303536645911
+      Arcade - Syvalion - Playable Characters - Syvalion_105: 2075211711655623964
+      Arcade - Syvalion - Playable Characters - Syvalion_106: 8190602025744059399
+      Arcade - Syvalion - Playable Characters - Syvalion_107: 7524480613970838647
+      Arcade - Syvalion - Playable Characters - Syvalion_108: 4598862713289669133
+      Arcade - Syvalion - Playable Characters - Syvalion_109: -5172195658133939006
+      Arcade - Syvalion - Playable Characters - Syvalion_11: -5069068893977899246
+      Arcade - Syvalion - Playable Characters - Syvalion_110: -896604875655173982
+      Arcade - Syvalion - Playable Characters - Syvalion_111: -5695569990910656633
+      Arcade - Syvalion - Playable Characters - Syvalion_112: -2406313308550397259
+      Arcade - Syvalion - Playable Characters - Syvalion_113: -3465647872380804833
+      Arcade - Syvalion - Playable Characters - Syvalion_114: 608147998273375332
+      Arcade - Syvalion - Playable Characters - Syvalion_115: 6869808333641867247
+      Arcade - Syvalion - Playable Characters - Syvalion_116: -8295952193721159606
+      Arcade - Syvalion - Playable Characters - Syvalion_12: 7267379319469821319
+      Arcade - Syvalion - Playable Characters - Syvalion_13: 1564382188176601981
+      Arcade - Syvalion - Playable Characters - Syvalion_14: 8712625865198014022
+      Arcade - Syvalion - Playable Characters - Syvalion_15: 3057629201357330484
+      Arcade - Syvalion - Playable Characters - Syvalion_16: -8836355766723713284
+      Arcade - Syvalion - Playable Characters - Syvalion_17: -9089160827576567869
+      Arcade - Syvalion - Playable Characters - Syvalion_18: -4999382689720478585
+      Arcade - Syvalion - Playable Characters - Syvalion_19: -2774156886545804548
+      Arcade - Syvalion - Playable Characters - Syvalion_2: 2368108046898861704
+      Arcade - Syvalion - Playable Characters - Syvalion_20: -3607683591088282705
+      Arcade - Syvalion - Playable Characters - Syvalion_21: -7659645199089895950
+      Arcade - Syvalion - Playable Characters - Syvalion_22: -7563896040385290925
+      Arcade - Syvalion - Playable Characters - Syvalion_23: 7750854990283597236
+      Arcade - Syvalion - Playable Characters - Syvalion_24: -8595359030800989158
+      Arcade - Syvalion - Playable Characters - Syvalion_25: -1428911900624748963
+      Arcade - Syvalion - Playable Characters - Syvalion_26: 7959373981696558964
+      Arcade - Syvalion - Playable Characters - Syvalion_27: -1424770566221316489
+      Arcade - Syvalion - Playable Characters - Syvalion_28: 2840269393515418152
+      Arcade - Syvalion - Playable Characters - Syvalion_29: 6114166129035764328
+      Arcade - Syvalion - Playable Characters - Syvalion_3: 7732863704596611857
+      Arcade - Syvalion - Playable Characters - Syvalion_30: -1048014763898101161
+      Arcade - Syvalion - Playable Characters - Syvalion_31: -237205610705221391
+      Arcade - Syvalion - Playable Characters - Syvalion_32: 531165499982570732
+      Arcade - Syvalion - Playable Characters - Syvalion_33: 4932518148075616926
+      Arcade - Syvalion - Playable Characters - Syvalion_34: 6821331487768289021
+      Arcade - Syvalion - Playable Characters - Syvalion_35: 6109822939002564594
+      Arcade - Syvalion - Playable Characters - Syvalion_36: -3580526325143816480
+      Arcade - Syvalion - Playable Characters - Syvalion_37: 6843259687015926064
+      Arcade - Syvalion - Playable Characters - Syvalion_38: 6205692036203062786
+      Arcade - Syvalion - Playable Characters - Syvalion_39: -5460520730293633682
+      Arcade - Syvalion - Playable Characters - Syvalion_4: 2297536451795205754
+      Arcade - Syvalion - Playable Characters - Syvalion_40: 4025103784293453157
+      Arcade - Syvalion - Playable Characters - Syvalion_41: -2917588902620222564
+      Arcade - Syvalion - Playable Characters - Syvalion_42: -8885100457320178768
+      Arcade - Syvalion - Playable Characters - Syvalion_43: -8189348289345090717
+      Arcade - Syvalion - Playable Characters - Syvalion_44: -8908492238773152887
+      Arcade - Syvalion - Playable Characters - Syvalion_45: 1299151161991628949
+      Arcade - Syvalion - Playable Characters - Syvalion_46: 6768956563192898124
+      Arcade - Syvalion - Playable Characters - Syvalion_47: 6445962683205388092
+      Arcade - Syvalion - Playable Characters - Syvalion_48: 7520002404293531632
+      Arcade - Syvalion - Playable Characters - Syvalion_49: 6544499945957497926
+      Arcade - Syvalion - Playable Characters - Syvalion_5: 3143877214479446359
+      Arcade - Syvalion - Playable Characters - Syvalion_50: -6943055855966479699
+      Arcade - Syvalion - Playable Characters - Syvalion_51: 6810191425035725089
+      Arcade - Syvalion - Playable Characters - Syvalion_52: -8041281265815764649
+      Arcade - Syvalion - Playable Characters - Syvalion_53: -2142879064174920008
+      Arcade - Syvalion - Playable Characters - Syvalion_54: 2088406060942962935
+      Arcade - Syvalion - Playable Characters - Syvalion_55: 8984183604683382983
+      Arcade - Syvalion - Playable Characters - Syvalion_56: -7710593367686677709
+      Arcade - Syvalion - Playable Characters - Syvalion_57: -8876220901596335229
+      Arcade - Syvalion - Playable Characters - Syvalion_58: -618653184060509411
+      Arcade - Syvalion - Playable Characters - Syvalion_59: 6435933570333616695
+      Arcade - Syvalion - Playable Characters - Syvalion_6: -3455830459258558147
+      Arcade - Syvalion - Playable Characters - Syvalion_60: -3035063724334652561
+      Arcade - Syvalion - Playable Characters - Syvalion_61: -77991066338533395
+      Arcade - Syvalion - Playable Characters - Syvalion_62: -5857305356154845825
+      Arcade - Syvalion - Playable Characters - Syvalion_63: -3670943819998923695
+      Arcade - Syvalion - Playable Characters - Syvalion_64: 86616648377600464
+      Arcade - Syvalion - Playable Characters - Syvalion_65: 243983046798778794
+      Arcade - Syvalion - Playable Characters - Syvalion_66: 1745457130947936054
+      Arcade - Syvalion - Playable Characters - Syvalion_67: 596670349581064527
+      Arcade - Syvalion - Playable Characters - Syvalion_68: -366534965251988565
+      Arcade - Syvalion - Playable Characters - Syvalion_69: -1344932776998609733
+      Arcade - Syvalion - Playable Characters - Syvalion_7: -3994754031659047193
+      Arcade - Syvalion - Playable Characters - Syvalion_70: 2866113576928586048
+      Arcade - Syvalion - Playable Characters - Syvalion_71: 7935568295846015709
+      Arcade - Syvalion - Playable Characters - Syvalion_72: 4345295646563739328
+      Arcade - Syvalion - Playable Characters - Syvalion_73: -3660508503472800655
+      Arcade - Syvalion - Playable Characters - Syvalion_74: 6687730015512504395
+      Arcade - Syvalion - Playable Characters - Syvalion_75: 5696369453626152462
+      Arcade - Syvalion - Playable Characters - Syvalion_76: 7010067480178361900
+      Arcade - Syvalion - Playable Characters - Syvalion_77: -8678019432874562286
+      Arcade - Syvalion - Playable Characters - Syvalion_78: 6183767589959373214
+      Arcade - Syvalion - Playable Characters - Syvalion_79: 2899526857621856871
+      Arcade - Syvalion - Playable Characters - Syvalion_8: -2965770351300544333
+      Arcade - Syvalion - Playable Characters - Syvalion_80: -4865418778349430144
+      Arcade - Syvalion - Playable Characters - Syvalion_81: -3727816944264650514
+      Arcade - Syvalion - Playable Characters - Syvalion_82: -750000029474411685
+      Arcade - Syvalion - Playable Characters - Syvalion_83: 8234101231094937432
+      Arcade - Syvalion - Playable Characters - Syvalion_84: -4299885084546330889
+      Arcade - Syvalion - Playable Characters - Syvalion_85: -743335837335236566
+      Arcade - Syvalion - Playable Characters - Syvalion_86: -2878558289422750871
+      Arcade - Syvalion - Playable Characters - Syvalion_87: 5917242184128457852
+      Arcade - Syvalion - Playable Characters - Syvalion_88: 1572875915229915017
+      Arcade - Syvalion - Playable Characters - Syvalion_89: 5246661681837755765
+      Arcade - Syvalion - Playable Characters - Syvalion_9: -7077772641899818964
+      Arcade - Syvalion - Playable Characters - Syvalion_90: -3430902328004440444
+      Arcade - Syvalion - Playable Characters - Syvalion_91: -5831662376993481654
+      Arcade - Syvalion - Playable Characters - Syvalion_92: 6379736056250497406
+      Arcade - Syvalion - Playable Characters - Syvalion_93: 8819501633488379145
+      Arcade - Syvalion - Playable Characters - Syvalion_94: 1713326360385441851
+      Arcade - Syvalion - Playable Characters - Syvalion_95: -711151579153367238
+      Arcade - Syvalion - Playable Characters - Syvalion_96: -4537149023667087027
+      Arcade - Syvalion - Playable Characters - Syvalion_97: -7243878040325863758
+      Arcade - Syvalion - Playable Characters - Syvalion_98: 4764374827497807914
+      Arcade - Syvalion - Playable Characters - Syvalion_99: -1517316217281629177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

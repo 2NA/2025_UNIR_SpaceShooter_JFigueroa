@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: 2d46b1f22a3c56af181886f557f02adb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 277153651345687882
+    second: Arcade - Gradius - Playable Characters - Vic Viper_0
+  - first:
+      213: -4735470168854397359
+    second: Arcade - Gradius - Playable Characters - Vic Viper_1
+  - first:
+      213: 5709896284954629876
+    second: Arcade - Gradius - Playable Characters - Vic Viper_2
+  - first:
+      213: -1990611346491505757
+    second: Arcade - Gradius - Playable Characters - Vic Viper_3
+  - first:
+      213: 4834859043313164193
+    second: Arcade - Gradius - Playable Characters - Vic Viper_4
+  - first:
+      213: 4209050568688390677
+    second: Arcade - Gradius - Playable Characters - Vic Viper_5
+  - first:
+      213: -47349876421249660
+    second: Arcade - Gradius - Playable Characters - Vic Viper_6
+  - first:
+      213: 1273291528013154775
+    second: Arcade - Gradius - Playable Characters - Vic Viper_7
+  - first:
+      213: -646912519806291599
+    second: Arcade - Gradius - Playable Characters - Vic Viper_8
+  - first:
+      213: -8853870950439343844
+    second: Arcade - Gradius - Playable Characters - Vic Viper_9
+  - first:
+      213: -7036124267876368843
+    second: Arcade - Gradius - Playable Characters - Vic Viper_10
+  - first:
+      213: 7872367639804670834
+    second: Arcade - Gradius - Playable Characters - Vic Viper_11
+  - first:
+      213: 1581700635242931123
+    second: Arcade - Gradius - Playable Characters - Vic Viper_12
+  - first:
+      213: 1830758954161274410
+    second: Arcade - Gradius - Playable Characters - Vic Viper_13
+  - first:
+      213: -6172651311962796941
+    second: Arcade - Gradius - Playable Characters - Vic Viper_14
+  - first:
+      213: -8123658650729247286
+    second: Arcade - Gradius - Playable Characters - Vic Viper_15
+  - first:
+      213: -3312721180925148585
+    second: Arcade - Gradius - Playable Characters - Vic Viper_16
+  - first:
+      213: 660064981593900170
+    second: Arcade - Gradius - Playable Characters - Vic Viper_17
+  - first:
+      213: 4892767371111057458
+    second: Arcade - Gradius - Playable Characters - Vic Viper_18
+  - first:
+      213: -5389673409369955065
+    second: Arcade - Gradius - Playable Characters - Vic Viper_19
+  - first:
+      213: -3205418819362647238
+    second: Arcade - Gradius - Playable Characters - Vic Viper_20
+  - first:
+      213: -7211472911349401708
+    second: Arcade - Gradius - Playable Characters - Vic Viper_21
+  - first:
+      213: -168106154136039147
+    second: Arcade - Gradius - Playable Characters - Vic Viper_22
+  - first:
+      213: 5234658971935490128
+    second: Arcade - Gradius - Playable Characters - Vic Viper_23
+  - first:
+      213: -3205588690944972601
+    second: Arcade - Gradius - Playable Characters - Vic Viper_24
+  - first:
+      213: 5024611619974760382
+    second: Arcade - Gradius - Playable Characters - Vic Viper_25
+  - first:
+      213: 5526486639928056011
+    second: Arcade - Gradius - Playable Characters - Vic Viper_26
+  - first:
+      213: 5319433085893157996
+    second: Arcade - Gradius - Playable Characters - Vic Viper_27
+  - first:
+      213: -5760629645150769865
+    second: Arcade - Gradius - Playable Characters - Vic Viper_28
+  - first:
+      213: 5710535497572870883
+    second: Arcade - Gradius - Playable Characters - Vic Viper_29
+  - first:
+      213: 365345389305531386
+    second: Arcade - Gradius - Playable Characters - Vic Viper_30
+  - first:
+      213: 4997573846689581548
+    second: Arcade - Gradius - Playable Characters - Vic Viper_31
+  - first:
+      213: -6842013246259585819
+    second: Arcade - Gradius - Playable Characters - Vic Viper_32
+  - first:
+      213: 3727283711385396104
+    second: Arcade - Gradius - Playable Characters - Vic Viper_33
+  - first:
+      213: 5530960615843374041
+    second: Arcade - Gradius - Playable Characters - Vic Viper_34
+  - first:
+      213: 5778495177805887100
+    second: Arcade - Gradius - Playable Characters - Vic Viper_35
+  - first:
+      213: 5342367243680113940
+    second: Arcade - Gradius - Playable Characters - Vic Viper_36
+  - first:
+      213: -8667030966799226868
+    second: Arcade - Gradius - Playable Characters - Vic Viper_37
+  - first:
+      213: 7264829130158860826
+    second: Arcade - Gradius - Playable Characters - Vic Viper_38
+  - first:
+      213: -6107770075911015420
+    second: Arcade - Gradius - Playable Characters - Vic Viper_39
+  - first:
+      213: -2859912345620325296
+    second: Arcade - Gradius - Playable Characters - Vic Viper_40
+  - first:
+      213: 318721819827500561
+    second: Arcade - Gradius - Playable Characters - Vic Viper_41
+  - first:
+      213: -6612983301670874749
+    second: Arcade - Gradius - Playable Characters - Vic Viper_42
+  - first:
+      213: -71687480249623897
+    second: Arcade - Gradius - Playable Characters - Vic Viper_43
+  - first:
+      213: 1955527792089099729
+    second: Arcade - Gradius - Playable Characters - Vic Viper_44
+  - first:
+      213: -2303231115591601504
+    second: Arcade - Gradius - Playable Characters - Vic Viper_45
+  - first:
+      213: 9050354404850876135
+    second: Arcade - Gradius - Playable Characters - Vic Viper_46
+  - first:
+      213: 8321933879536752104
+    second: Arcade - Gradius - Playable Characters - Vic Viper_47
+  - first:
+      213: -7859059814225699048
+    second: Arcade - Gradius - Playable Characters - Vic Viper_48
+  - first:
+      213: -7752222944207554825
+    second: Arcade - Gradius - Playable Characters - Vic Viper_49
+  - first:
+      213: 4977457065106316918
+    second: Arcade - Gradius - Playable Characters - Vic Viper_50
+  - first:
+      213: 4200470724792917139
+    second: Arcade - Gradius - Playable Characters - Vic Viper_51
+  - first:
+      213: 5988075812597059369
+    second: Arcade - Gradius - Playable Characters - Vic Viper_52
+  - first:
+      213: -1314070250001208288
+    second: Arcade - Gradius - Playable Characters - Vic Viper_53
+  - first:
+      213: 6260233588365675142
+    second: Arcade - Gradius - Playable Characters - Vic Viper_54
+  - first:
+      213: -9120531532106063485
+    second: Arcade - Gradius - Playable Characters - Vic Viper_55
+  - first:
+      213: 2772176933541177404
+    second: Arcade - Gradius - Playable Characters - Vic Viper_56
+  - first:
+      213: 4349238503360563817
+    second: Arcade - Gradius - Playable Characters - Vic Viper_57
+  - first:
+      213: 5980273753872616496
+    second: Arcade - Gradius - Playable Characters - Vic Viper_58
+  - first:
+      213: 2889857304951214326
+    second: Arcade - Gradius - Playable Characters - Vic Viper_59
+  - first:
+      213: 1821416148983756168
+    second: Arcade - Gradius - Playable Characters - Vic Viper_60
+  - first:
+      213: -6488991408650831635
+    second: Arcade - Gradius - Playable Characters - Vic Viper_61
+  - first:
+      213: -4041607839715273356
+    second: Arcade - Gradius - Playable Characters - Vic Viper_62
+  - first:
+      213: 7830674402498016441
+    second: Arcade - Gradius - Playable Characters - Vic Viper_63
+  - first:
+      213: -3661151591300253321
+    second: Arcade - Gradius - Playable Characters - Vic Viper_64
+  - first:
+      213: 4645035380617262075
+    second: Arcade - Gradius - Playable Characters - Vic Viper_65
+  - first:
+      213: 794837872865179689
+    second: Arcade - Gradius - Playable Characters - Vic Viper_66
+  - first:
+      213: 7801612317546558036
+    second: Arcade - Gradius - Playable Characters - Vic Viper_67
+  - first:
+      213: 800540434714281735
+    second: Arcade - Gradius - Playable Characters - Vic Viper_68
+  - first:
+      213: -7582148354128118540
+    second: Arcade - Gradius - Playable Characters - Vic Viper_69
+  - first:
+      213: -965894159580498802
+    second: Arcade - Gradius - Playable Characters - Vic Viper_70
+  - first:
+      213: 8348566476651503234
+    second: Arcade - Gradius - Playable Characters - Vic Viper_71
+  - first:
+      213: 2540476280587968715
+    second: Arcade - Gradius - Playable Characters - Vic Viper_72
+  - first:
+      213: 1290395970875845913
+    second: Arcade - Gradius - Playable Characters - Vic Viper_73
+  - first:
+      213: -8890332714370410448
+    second: Arcade - Gradius - Playable Characters - Vic Viper_74
+  - first:
+      213: -2577079546100678515
+    second: Arcade - Gradius - Playable Characters - Vic Viper_75
+  - first:
+      213: 9203526912823983180
+    second: Arcade - Gradius - Playable Characters - Vic Viper_76
+  - first:
+      213: 2490654382498733232
+    second: Arcade - Gradius - Playable Characters - Vic Viper_77
+  - first:
+      213: 3162663000239466593
+    second: Arcade - Gradius - Playable Characters - Vic Viper_78
+  - first:
+      213: -6782856365758566409
+    second: Arcade - Gradius - Playable Characters - Vic Viper_79
+  - first:
+      213: -2156648562480375903
+    second: Arcade - Gradius - Playable Characters - Vic Viper_80
+  - first:
+      213: 8975199802424198232
+    second: Arcade - Gradius - Playable Characters - Vic Viper_81
+  - first:
+      213: 8328475392445124686
+    second: Arcade - Gradius - Playable Characters - Vic Viper_82
+  - first:
+      213: 9037418070568155326
+    second: Arcade - Gradius - Playable Characters - Vic Viper_83
+  - first:
+      213: -3107480327262028197
+    second: Arcade - Gradius - Playable Characters - Vic Viper_84
+  - first:
+      213: -2439789598673635036
+    second: Arcade - Gradius - Playable Characters - Vic Viper_85
+  - first:
+      213: -1715662178522441295
+    second: Arcade - Gradius - Playable Characters - Vic Viper_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 54
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4589a807c5a8d300800000000000000
+      internalID: 277153651345687882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 54
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e79f498fa384eb0800000000000000
+      internalID: -4735470168854397359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 50
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f61b093b60ad3f40800000000000000
+      internalID: 5709896284954629876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 51
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3038ee68def54e0800000000000000
+      internalID: -1990611346491505757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 50
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af14c70faed81340800000000000000
+      internalID: 4834859043313164193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 29
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d354113d896a30800000000000000
+      internalID: 4209050568688390677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 56
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485b0cbc987c75ff0800000000000000
+      internalID: -47349876421249660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 54
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d90db606e3aba110800000000000000
+      internalID: 1273291528013154775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 53
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1717130ad74b507f0800000000000000
+      internalID: -646912519806291599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 52
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19a9e7c74bb02580800000000000000
+      internalID: -8853870950439343844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 52
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e39b1e14aaa5e90800000000000000
+      internalID: -7036124267876368843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_11
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 54
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27376d7a8a4404d60800000000000000
+      internalID: 7872367639804670834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 53
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32aa8f85453f510800000000000000
+      internalID: 1581700635242931123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 52
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef52ca199286910800000000000000
+      internalID: 1830758954161274410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ccb1cf556565aa0800000000000000
+      internalID: -6172651311962796941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd01c68f77f24f80800000000000000
+      internalID: -8123658650729247286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7524b0333a9d602d0800000000000000
+      internalID: -3312721180925148585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8444948a95092900800000000000000
+      internalID: 660064981593900170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23842b3400a96e340800000000000000
+      internalID: 4892767371111057458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705a22307980435b0800000000000000
+      internalID: -5389673409369955065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 29
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33998b11901483d0800000000000000
+      internalID: -3205418819362647238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497baab5893bbeb90800000000000000
+      internalID: -7211472911349401708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 31
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5111a2ee754caadf0800000000000000
+      internalID: -168106154136039147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 29
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050c68eb99e35a840800000000000000
+      internalID: 5234658971935490128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 29
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8273cc1167383d0800000000000000
+      internalID: -3205588690944972601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 29
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb745e695a10bb540800000000000000
+      internalID: 5024611619974760382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 29
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc89ad4815602bc40800000000000000
+      internalID: 5526486639928056011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 29
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c642f13453c62d940800000000000000
+      internalID: 5319433085893157996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 29
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d243edbd12e00b0800000000000000
+      internalID: -5760629645150769865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 29
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eae61287c5ef3f40800000000000000
+      internalID: 5710535497572870883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb02e522b7f11500800000000000000
+      internalID: 365345389305531386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce907be6fe2fa5540800000000000000
+      internalID: 4997573846689581548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec1e2cf3394c01a0800000000000000
+      internalID: -6842013246259585819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883e93a99c8f9b330800000000000000
+      internalID: 3727283711385396104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 17
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d32506306be1cc40800000000000000
+      internalID: 5530960615843374041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c767d699fb6513050800000000000000
+      internalID: 5778495177805887100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4156c3bf3b6e32a40800000000000000
+      internalID: 5342367243680113940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c082f9e614588b780800000000000000
+      internalID: -8667030966799226868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a67096a9bd1d460800000000000000
+      internalID: 7264829130158860826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 17
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404309fe977dc3ba0800000000000000
+      internalID: -6107770075911015420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_40
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cdb86cfdc8f48d0800000000000000
+      internalID: -2859912345620325296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116fbf47ec35c6400800000000000000
+      internalID: 318721819827500561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 17
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381515669b6f934a0800000000000000
+      internalID: -6612983301670874749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_43
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad0e4dd90510ff0800000000000000
+      internalID: -71687480249623897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_44
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddefd38a2e632b10800000000000000
+      internalID: 1955527792089099729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2398fd0874900e0800000000000000
+      internalID: -2303231115591601504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee37806161599d70800000000000000
+      internalID: 9050354404850876135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 17
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5931e95c27d7370800000000000000
+      internalID: 8321933879536752104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 17
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f9780fcb20fe290800000000000000
+      internalID: -7859059814225699048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_49
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f630e62e429a6490800000000000000
+      internalID: -7752222944207554825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e9b6a34da731540800000000000000
+      internalID: 4977457065106316918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c95b08ed11b4a30800000000000000
+      internalID: 4200470724792917139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fc4f1b93be91350800000000000000
+      internalID: 5988075812597059369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_53
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ce4c2e11c73cde0800000000000000
+      internalID: -1314070250001208288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a418dc741d0e650800000000000000
+      internalID: 6260233588365675142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_55
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381a11ae4ec5d6180800000000000000
+      internalID: -9120531532106063485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38e042cb30c87620800000000000000
+      internalID: 2772176933541177404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_57
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a024420699b5c30800000000000000
+      internalID: 4349238503360563817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 17
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c4b275b433ef250800000000000000
+      internalID: 5980273753872616496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_59
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f05f2168e5da1820800000000000000
+      internalID: 2889857304951214326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_60
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88536545658f64910800000000000000
+      internalID: 1821416148983756168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de83ec8a1b872f5a0800000000000000
+      internalID: -6488991408650831635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4755658451359e7c0800000000000000
+      internalID: -4041607839715273356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b473a061e42cac60800000000000000
+      internalID: 7830674402498016441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77931bb760af03dc0800000000000000
+      internalID: -3661151591300253321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf330d6711b767040800000000000000
+      internalID: 4645035380617262075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_66
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928f72a85d4d70b00800000000000000
+      internalID: 794837872865179689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_67
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452bcae6115e44c60800000000000000
+      internalID: 7801612317546558036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_68
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7074b7fa8471c1b00800000000000000
+      internalID: 800540434714281735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_69
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc71ed6e3cc6c690800000000000000
+      internalID: -7582148354128118540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 6
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84749f11647892f0800000000000000
+      internalID: -965894159580498802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e1c885af01cd370800000000000000
+      internalID: 8348566476651503234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_72
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc060c897b5914320800000000000000
+      internalID: 2540476280587968715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_73
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d66a77c4868e110800000000000000
+      internalID: 1290395970875845913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_74
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 6
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038dae0df713f9480800000000000000
+      internalID: -8890332714370410448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_75
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d808eb88ecf5c3cd0800000000000000
+      internalID: -2577079546100678515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_76
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cfe9ff6fe79bf70800000000000000
+      internalID: 9203526912823983180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc5b1ff6f4909220800000000000000
+      internalID: 2490654382498733232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_78
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1686b810e3904eb20800000000000000
+      internalID: 3162663000239466593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffa67c82147ed1a0800000000000000
+      internalID: -6782856365758566409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_80
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a710001f8b0212e0800000000000000
+      internalID: -2156648562480375903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_81
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85486abeaa05e8c70800000000000000
+      internalID: 8975199802424198232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_82
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4016474e30b49370800000000000000
+      internalID: 8328475392445124686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_83
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb839e65adb5b6d70800000000000000
+      internalID: 9037418070568155326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_84
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e38034b1300e4d0800000000000000
+      internalID: -3107480327262028197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_85
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4297d5c5940242ed0800000000000000
+      internalID: -2439789598673635036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Gradius - Playable Characters - Vic Viper_86
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 4
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9d89ea65eb038e0800000000000000
+      internalID: -1715662178522441295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Gradius - Playable Characters - Vic Viper_0: 277153651345687882
+      Arcade - Gradius - Playable Characters - Vic Viper_1: -4735470168854397359
+      Arcade - Gradius - Playable Characters - Vic Viper_10: -7036124267876368843
+      Arcade - Gradius - Playable Characters - Vic Viper_11: 7872367639804670834
+      Arcade - Gradius - Playable Characters - Vic Viper_12: 1581700635242931123
+      Arcade - Gradius - Playable Characters - Vic Viper_13: 1830758954161274410
+      Arcade - Gradius - Playable Characters - Vic Viper_14: -6172651311962796941
+      Arcade - Gradius - Playable Characters - Vic Viper_15: -8123658650729247286
+      Arcade - Gradius - Playable Characters - Vic Viper_16: -3312721180925148585
+      Arcade - Gradius - Playable Characters - Vic Viper_17: 660064981593900170
+      Arcade - Gradius - Playable Characters - Vic Viper_18: 4892767371111057458
+      Arcade - Gradius - Playable Characters - Vic Viper_19: -5389673409369955065
+      Arcade - Gradius - Playable Characters - Vic Viper_2: 5709896284954629876
+      Arcade - Gradius - Playable Characters - Vic Viper_20: -3205418819362647238
+      Arcade - Gradius - Playable Characters - Vic Viper_21: -7211472911349401708
+      Arcade - Gradius - Playable Characters - Vic Viper_22: -168106154136039147
+      Arcade - Gradius - Playable Characters - Vic Viper_23: 5234658971935490128
+      Arcade - Gradius - Playable Characters - Vic Viper_24: -3205588690944972601
+      Arcade - Gradius - Playable Characters - Vic Viper_25: 5024611619974760382
+      Arcade - Gradius - Playable Characters - Vic Viper_26: 5526486639928056011
+      Arcade - Gradius - Playable Characters - Vic Viper_27: 5319433085893157996
+      Arcade - Gradius - Playable Characters - Vic Viper_28: -5760629645150769865
+      Arcade - Gradius - Playable Characters - Vic Viper_29: 5710535497572870883
+      Arcade - Gradius - Playable Characters - Vic Viper_3: -1990611346491505757
+      Arcade - Gradius - Playable Characters - Vic Viper_30: 365345389305531386
+      Arcade - Gradius - Playable Characters - Vic Viper_31: 4997573846689581548
+      Arcade - Gradius - Playable Characters - Vic Viper_32: -6842013246259585819
+      Arcade - Gradius - Playable Characters - Vic Viper_33: 3727283711385396104
+      Arcade - Gradius - Playable Characters - Vic Viper_34: 5530960615843374041
+      Arcade - Gradius - Playable Characters - Vic Viper_35: 5778495177805887100
+      Arcade - Gradius - Playable Characters - Vic Viper_36: 5342367243680113940
+      Arcade - Gradius - Playable Characters - Vic Viper_37: -8667030966799226868
+      Arcade - Gradius - Playable Characters - Vic Viper_38: 7264829130158860826
+      Arcade - Gradius - Playable Characters - Vic Viper_39: -6107770075911015420
+      Arcade - Gradius - Playable Characters - Vic Viper_4: 4834859043313164193
+      Arcade - Gradius - Playable Characters - Vic Viper_40: -2859912345620325296
+      Arcade - Gradius - Playable Characters - Vic Viper_41: 318721819827500561
+      Arcade - Gradius - Playable Characters - Vic Viper_42: -6612983301670874749
+      Arcade - Gradius - Playable Characters - Vic Viper_43: -71687480249623897
+      Arcade - Gradius - Playable Characters - Vic Viper_44: 1955527792089099729
+      Arcade - Gradius - Playable Characters - Vic Viper_45: -2303231115591601504
+      Arcade - Gradius - Playable Characters - Vic Viper_46: 9050354404850876135
+      Arcade - Gradius - Playable Characters - Vic Viper_47: 8321933879536752104
+      Arcade - Gradius - Playable Characters - Vic Viper_48: -7859059814225699048
+      Arcade - Gradius - Playable Characters - Vic Viper_49: -7752222944207554825
+      Arcade - Gradius - Playable Characters - Vic Viper_5: 4209050568688390677
+      Arcade - Gradius - Playable Characters - Vic Viper_50: 4977457065106316918
+      Arcade - Gradius - Playable Characters - Vic Viper_51: 4200470724792917139
+      Arcade - Gradius - Playable Characters - Vic Viper_52: 5988075812597059369
+      Arcade - Gradius - Playable Characters - Vic Viper_53: -1314070250001208288
+      Arcade - Gradius - Playable Characters - Vic Viper_54: 6260233588365675142
+      Arcade - Gradius - Playable Characters - Vic Viper_55: -9120531532106063485
+      Arcade - Gradius - Playable Characters - Vic Viper_56: 2772176933541177404
+      Arcade - Gradius - Playable Characters - Vic Viper_57: 4349238503360563817
+      Arcade - Gradius - Playable Characters - Vic Viper_58: 5980273753872616496
+      Arcade - Gradius - Playable Characters - Vic Viper_59: 2889857304951214326
+      Arcade - Gradius - Playable Characters - Vic Viper_6: -47349876421249660
+      Arcade - Gradius - Playable Characters - Vic Viper_60: 1821416148983756168
+      Arcade - Gradius - Playable Characters - Vic Viper_61: -6488991408650831635
+      Arcade - Gradius - Playable Characters - Vic Viper_62: -4041607839715273356
+      Arcade - Gradius - Playable Characters - Vic Viper_63: 7830674402498016441
+      Arcade - Gradius - Playable Characters - Vic Viper_64: -3661151591300253321
+      Arcade - Gradius - Playable Characters - Vic Viper_65: 4645035380617262075
+      Arcade - Gradius - Playable Characters - Vic Viper_66: 794837872865179689
+      Arcade - Gradius - Playable Characters - Vic Viper_67: 7801612317546558036
+      Arcade - Gradius - Playable Characters - Vic Viper_68: 800540434714281735
+      Arcade - Gradius - Playable Characters - Vic Viper_69: -7582148354128118540
+      Arcade - Gradius - Playable Characters - Vic Viper_7: 1273291528013154775
+      Arcade - Gradius - Playable Characters - Vic Viper_70: -965894159580498802
+      Arcade - Gradius - Playable Characters - Vic Viper_71: 8348566476651503234
+      Arcade - Gradius - Playable Characters - Vic Viper_72: 2540476280587968715
+      Arcade - Gradius - Playable Characters - Vic Viper_73: 1290395970875845913
+      Arcade - Gradius - Playable Characters - Vic Viper_74: -8890332714370410448
+      Arcade - Gradius - Playable Characters - Vic Viper_75: -2577079546100678515
+      Arcade - Gradius - Playable Characters - Vic Viper_76: 9203526912823983180
+      Arcade - Gradius - Playable Characters - Vic Viper_77: 2490654382498733232
+      Arcade - Gradius - Playable Characters - Vic Viper_78: 3162663000239466593
+      Arcade - Gradius - Playable Characters - Vic Viper_79: -6782856365758566409
+      Arcade - Gradius - Playable Characters - Vic Viper_8: -646912519806291599
+      Arcade - Gradius - Playable Characters - Vic Viper_80: -2156648562480375903
+      Arcade - Gradius - Playable Characters - Vic Viper_81: 8975199802424198232
+      Arcade - Gradius - Playable Characters - Vic Viper_82: 8328475392445124686
+      Arcade - Gradius - Playable Characters - Vic Viper_83: 9037418070568155326
+      Arcade - Gradius - Playable Characters - Vic Viper_84: -3107480327262028197
+      Arcade - Gradius - Playable Characters - Vic Viper_85: -2439789598673635036
+      Arcade - Gradius - Playable Characters - Vic Viper_86: -1715662178522441295
+      Arcade - Gradius - Playable Characters - Vic Viper_9: -8853870950439343844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
