@@ -34,10 +34,10 @@ public class PlayerSpaceShip : MonoBehaviour
     [SerializeField] InputActionReference move;
     [SerializeField] InputActionReference shoot;
 
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        // gameOver.enabled = false;
         Time.timeScale = 1;
     }
 
