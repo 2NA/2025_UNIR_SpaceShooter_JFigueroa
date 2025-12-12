@@ -193,9 +193,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35c6a6c2bd90d25ad8f56cd08967b670, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  speed: 1
-  spawnPoint: {fileID: 5459426185083259877}
+  speed: 0.5
+  spawnPointTop: {fileID: 0}
+  spawnPointCenter: {fileID: 5459426185083259877}
+  spawnPointBottom: {fileID: 0}
   projectilePrefab: {fileID: 4326917938806642387, guid: f7708dc27e29c41c2bb8cd14f06fe337, type: 3}
+  linearVelocity: {x: -1, y: 0, z: 0}
 --- !u!58 &8017174359412119515
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -257,7 +260,7 @@ Transform:
   m_GameObject: {fileID: 5459426185083259877}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.114, y: -0.017, z: 0}
+  m_LocalPosition: {x: -0.154, y: 0.0836, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

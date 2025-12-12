@@ -1,21 +1,26 @@
  using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerSpaceShip : MonoBehaviour
 {
+    [Header("HUD")]
+    [SerializeField] TextMeshProUGUI distanceMeter;
+    [SerializeField] TextMeshProUGUI currentLevel;
+
     [Header("Movement")]
     [SerializeField] float maxSpeed = 100f;
     [SerializeField] float acceleration = 300f;
     [SerializeField] float rawMoveThresholdForBreaking = 0.1f;
 
     [Header("Shooting")]
-    [SerializeField] GameObject spawnPointTop;
-    [SerializeField] GameObject spawnPointCenter;
-    [SerializeField] GameObject spawnPointBottom;
-    [SerializeField] GameObject slowProjectilePrefab;
-    [SerializeField] GameObject fastProjectilePrefab;
-    [SerializeField] GameObject missileProjectilePrefab;
+    [SerializeField] GameObject spawnPointTop = null;
+    [SerializeField] GameObject spawnPointCenter = null;
+    [SerializeField] GameObject spawnPointBottom = null;
+    [SerializeField] GameObject slowProjectilePrefab = null;
+    [SerializeField] GameObject fastProjectilePrefab = null;
+    [SerializeField] GameObject missileProjectilePrefab = null;
 
     [Header("Controls")]
     [SerializeField] InputActionReference move;
@@ -34,10 +39,20 @@ public class PlayerSpaceShip : MonoBehaviour
     }
 
     Vector2 currentVelocity = Vector2.zero;
+    private float score = 0.0f;
+    private int level = 1;
+    public float speedFactor = 0.2f;
     void Update()
     {
         DoMovement();
         StayInBounds();
+
+        speedFactor += Time.deltaTime;
+        score += Time.deltaTime * speedFactor;
+        distanceMeter.text = ((int)score).ToString () + " mts";
+                
+        level = (int)score / 250 + 1;
+        currentLevel.text = level.ToString ();
     }
 
     private void OnDisable()
@@ -60,9 +75,20 @@ public class PlayerSpaceShip : MonoBehaviour
 
     private void OnShoot(InputAction.CallbackContext context)
     {
-        Instantiate(slowProjectilePrefab, spawnPointCenter.transform.position, Quaternion.identity);
-        Instantiate(fastProjectilePrefab, spawnPointTop.transform.position, Quaternion.identity);
-        Instantiate(missileProjectilePrefab, spawnPointBottom.transform.position, Quaternion.identity);
+        if (spawnPointTop && fastProjectilePrefab)
+        {
+            Instantiate(fastProjectilePrefab, spawnPointTop.transform.position, Quaternion.identity);
+        }
+
+        if (spawnPointCenter && slowProjectilePrefab)
+        {
+            Instantiate(slowProjectilePrefab, spawnPointCenter.transform.position, Quaternion.identity);
+        }
+
+        if (spawnPointBottom && missileProjectilePrefab)
+        {
+            Instantiate(missileProjectilePrefab, spawnPointBottom.transform.position, Quaternion.identity);
+        }
     }
 
     private void DoMovement()
