@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 2d5a776512b3915588f7d5c7e68a70fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -696461420606899536
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_0
+  - first:
+      213: 7300490071731888669
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_1
+  - first:
+      213: -2084050884524645348
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_2
+  - first:
+      213: 8336478572379178934
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_3
+  - first:
+      213: 8059951450335663928
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_4
+  - first:
+      213: 5906654809707545511
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_5
+  - first:
+      213: -1979133167675968792
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_6
+  - first:
+      213: 8614423462777272429
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_7
+  - first:
+      213: 7446463750395072834
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_8
+  - first:
+      213: 4360032379475388679
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_9
+  - first:
+      213: -3129818892970177503
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_10
+  - first:
+      213: 1430319771927834396
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_11
+  - first:
+      213: 3792144854001021341
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_12
+  - first:
+      213: -1496135064458811676
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_13
+  - first:
+      213: -5825002165895294648
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_14
+  - first:
+      213: 3004970803983334794
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_15
+  - first:
+      213: 346460001593864457
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_16
+  - first:
+      213: 7995816357407026465
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_17
+  - first:
+      213: -7372776527341657138
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_18
+  - first:
+      213: -8151637250316386585
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_19
+  - first:
+      213: -5824871454316281838
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_20
+  - first:
+      213: -2369941355045699715
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_21
+  - first:
+      213: -8324681239757195887
+    second: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+      - Making a wish to full moon_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 238
+        width: 162
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba36f8270ca556f0800000000000000
+      internalID: -696461420606899536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 238
+        width: 162
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1268d36a0d805560800000000000000
+      internalID: 7300490071731888669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 238
+        width: 162
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14e11623c6f313e0800000000000000
+      internalID: -2084050884524645348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 172
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b70150d71f11b370800000000000000
+      internalID: 8336478572379178934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 101
+        width: 182
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837d6200423badf60800000000000000
+      internalID: 8059951450335663928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 101
+        width: 190
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3887f2147a8f150800000000000000
+      internalID: 5906654809707545511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 101
+        width: 199
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2fa71bed4b884e0800000000000000
+      internalID: -1979133167675968792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_7
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 101
+        width: 209
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6831ab8f749c8770800000000000000
+      internalID: 8614423462777272429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 101
+        width: 207
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2411f13f357275760800000000000000
+      internalID: 7446463750395072834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_9
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 101
+        width: 215
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709e4d34952f18c30800000000000000
+      internalID: 4360032379475388679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cc431ac46a094d0800000000000000
+      internalID: -3129818892970177503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fe9f0214489d310800000000000000
+      internalID: 1430319771927834396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d917e8f27a760a430800000000000000
+      internalID: 3792144854001021341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62de2f519ac3be0800000000000000
+      internalID: -1496135064458811676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 44
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8411eed646f692fa0800000000000000
+      internalID: -5825002165895294648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 32
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8db8d3760dc3b920800000000000000
+      internalID: 3004970803983334794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 25
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90132eb298fdec400800000000000000
+      internalID: 346460001593864457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 25
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12de0880d98d6fe60800000000000000
+      internalID: 7995816357407026465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 25
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3667f9fc2aea990800000000000000
+      internalID: -7372776527341657138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 25
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eebc0d2c119fde80800000000000000
+      internalID: -8151637250316386585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_20
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 25
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2104a271646e92fa0800000000000000
+      internalID: -5824871454316281838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 25
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f3ef1e4e64c1fd0800000000000000
+      internalID: -2369941355045699715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous)
+        - Making a wish to full moon_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195f9ebb48ac87c80800000000000000
+      internalID: -8324681239757195887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_0: -696461420606899536
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_1: 7300490071731888669
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_10: -3129818892970177503
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_11: 1430319771927834396
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_12: 3792144854001021341
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_13: -1496135064458811676
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_14: -5825002165895294648
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_15: 3004970803983334794
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_16: 346460001593864457
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_17: 7995816357407026465
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_18: -7372776527341657138
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_19: -8151637250316386585
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_2: -2084050884524645348
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_20: -5824871454316281838
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_21: -2369941355045699715
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_22: -8324681239757195887
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_3: 8336478572379178934
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_4: 8059951450335663928
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_5: 5906654809707545511
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_6: -1979133167675968792
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_7: 8614423462777272429
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_8: 7446463750395072834
+      PC _ Computer - MapleStory - Monsters (Event Monsters_ Other Miscellaneous) - Making a wish to full moon_9: 4360032379475388679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

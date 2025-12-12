@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerShot : MonoBehaviour
+public class EnemyShot : MonoBehaviour
 {
     [SerializeField] float speed = 1.5f;
     
@@ -13,9 +13,9 @@ public class PlayerShot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(Vector3.right * Time.deltaTime * speed);
+        transform.Translate(new Vector3(-1, 0, 0) * speed * Time.deltaTime);
 
-        if (transform.position.x > 2.5f)
+        if (transform.position.x < -2.5f)
         {
             Destroy(gameObject);
         }
