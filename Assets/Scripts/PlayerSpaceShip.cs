@@ -2,12 +2,15 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PlayerSpaceShip : MonoBehaviour
 {
     [Header("HUD")]
+    [SerializeField] TextMeshProUGUI currentLives;
     [SerializeField] TextMeshProUGUI distanceMeter;
     [SerializeField] TextMeshProUGUI currentLevel;
+    [SerializeField] TextMeshProUGUI gameOver;
 
     [Header("Movement")]
     [SerializeField] float maxSpeed = 100f;
@@ -25,6 +28,13 @@ public class PlayerSpaceShip : MonoBehaviour
     [Header("Controls")]
     [SerializeField] InputActionReference move;
     [SerializeField] InputActionReference shoot;
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        // gameOver.enabled = false;
+        Time.timeScale = 1;
+    }
 
     private void OnEnable()
     {
@@ -91,6 +101,11 @@ public class PlayerSpaceShip : MonoBehaviour
         }
     }
 
+    private void OnReset(InputAction.CallbackContext context)
+    {
+        SceneManager.LoadScene(0);
+    }
+
     private void DoMovement()
     {
         if (rawMove.magnitude < rawMoveThresholdForBreaking)
@@ -113,5 +128,37 @@ public class PlayerSpaceShip : MonoBehaviour
         float yClamped = Mathf.Clamp(transform.position.y, -0.9f, 0.9f);
 
         transform.position = new Vector3(xClamped, yClamped, 0);
+    }
+
+    private int lives = 3;
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Enemy") || collision.CompareTag("EnemyShot"))
+        {
+            lives--;
+            
+            switch(lives)
+            {
+                case 2:
+                    currentLives.text = "--";
+                    break;
+                case 1:
+                    currentLives.text = "-";
+                    break;
+                default:
+                    currentLives.text = "";
+                    
+                    Time.timeScale = 0;
+                    
+                    gameOver.gameObject.SetActive(true);
+                    Destroy(gameObject);
+                    
+                    OnDisable();
+                    shoot.action.Enable();
+                    shoot.action.started += OnReset;
+                    
+                    break;
+            }
+        }
     }
 }

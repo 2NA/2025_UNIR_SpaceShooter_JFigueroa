@@ -179,7 +179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b6e021105343981a9ae77bf4c17d41e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerShot
-  speed: 3
+  speed: 1
   direction: {x: -1, y: 0, z: 0}
 --- !u!1 &5628246454140779322
 GameObject:
