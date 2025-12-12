@@ -6,8 +6,13 @@ using UnityEngine.SceneManagement;
 
 public class PlayerSpaceShip : MonoBehaviour
 {
+    [Header("Player Setup")]
+    [SerializeField] public int lives = 3;
+    [SerializeField] public int powerLevel = 1;
+
     [Header("HUD")]
     [SerializeField] TextMeshProUGUI currentLives;
+    [SerializeField] TextMeshProUGUI currentPowerLevel;
     [SerializeField] TextMeshProUGUI distanceMeter;
     [SerializeField] TextMeshProUGUI currentLevel;
     [SerializeField] TextMeshProUGUI gameOver;
@@ -46,6 +51,7 @@ public class PlayerSpaceShip : MonoBehaviour
         move.action.canceled += OnMove;
 
         shoot.action.started += OnShoot;
+        shoot.action.started -= OnReset;
     }
 
     Vector2 currentVelocity = Vector2.zero;
@@ -75,6 +81,7 @@ public class PlayerSpaceShip : MonoBehaviour
         move.action.canceled -= OnMove;
 
         shoot.action.started -= OnShoot;
+        shoot.action.started -= OnReset;
     }
 
     Vector2 rawMove;
@@ -85,24 +92,42 @@ public class PlayerSpaceShip : MonoBehaviour
 
     private void OnShoot(InputAction.CallbackContext context)
     {
-        if (spawnPointTop && fastProjectilePrefab)
+        if (powerLevel > 3)
         {
-            Instantiate(fastProjectilePrefab, spawnPointTop.transform.position, Quaternion.identity);
+            if (spawnPointTop && fastProjectilePrefab)
+            {
+                Instantiate(fastProjectilePrefab, spawnPointTop.transform.position, Quaternion.identity);
+            }
+        }
+            
+        if (powerLevel > 2)
+        {
+            if (spawnPointCenter && fastProjectilePrefab)
+            {
+                Instantiate(fastProjectilePrefab, spawnPointCenter.transform.position, Quaternion.identity);
+            }
         }
 
-        if (spawnPointCenter && slowProjectilePrefab)
+        if (powerLevel > 1) 
         {
-            Instantiate(slowProjectilePrefab, spawnPointCenter.transform.position, Quaternion.identity);
+            if (spawnPointBottom && missileProjectilePrefab)
+            {
+                Instantiate(missileProjectilePrefab, spawnPointBottom.transform.position, Quaternion.identity);
+            }
         }
 
-        if (spawnPointBottom && missileProjectilePrefab)
+        if (powerLevel < 3) 
         {
-            Instantiate(missileProjectilePrefab, spawnPointBottom.transform.position, Quaternion.identity);
+            if (spawnPointBottom && missileProjectilePrefab)
+            {
+                Instantiate(slowProjectilePrefab, spawnPointCenter.transform.position, Quaternion.identity);
+            }
         }
     }
 
     private void OnReset(InputAction.CallbackContext context)
     {
+        OnDisable();
         SceneManager.LoadScene(0);
     }
 
@@ -130,7 +155,6 @@ public class PlayerSpaceShip : MonoBehaviour
         transform.position = new Vector3(xClamped, yClamped, 0);
     }
 
-    private int lives = 3;
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Enemy") || collision.CompareTag("EnemyShot"))
@@ -145,7 +169,7 @@ public class PlayerSpaceShip : MonoBehaviour
                 case 1:
                     currentLives.text = "-";
                     break;
-                default:
+                case 0:
                     currentLives.text = "";
                     
                     Time.timeScale = 0;
@@ -156,7 +180,32 @@ public class PlayerSpaceShip : MonoBehaviour
                     OnDisable();
                     shoot.action.Enable();
                     shoot.action.started += OnReset;
+                    break;
+                default:
+                    currentLives.text = "---";
                     
+                    break;
+            }
+        }
+        else if (collision.CompareTag("PlayerPowerUp"))
+        {
+            Destroy(collision.gameObject);
+
+            powerLevel++;
+            
+            switch(powerLevel)
+            {
+                case 4:
+                    currentPowerLevel.text = "----";
+                    break;
+                case 3:
+                    currentPowerLevel.text = "---";
+                    break;
+                case 2:
+                    currentPowerLevel.text = "--";
+                    break;
+                default:
+                    currentPowerLevel.text = "-";
                     break;
             }
         }

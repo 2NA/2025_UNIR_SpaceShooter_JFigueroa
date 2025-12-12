@@ -94,8 +94,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1023688646134423573}
   - component: {fileID: 3994488635766365736}
-  - component: {fileID: 781228196691231328}
   - component: {fileID: 8017174359412119515}
+  - component: {fileID: 7077497330770138608}
   m_Layer: 0
   m_Name: EnemySlow
   m_TagString: Enemy
@@ -181,24 +181,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &781228196691231328
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4007124608622316609}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 35c6a6c2bd90d25ad8f56cd08967b670, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  speed: 0.5
-  spawnPointTop: {fileID: 0}
-  spawnPointCenter: {fileID: 5459426185083259877}
-  spawnPointBottom: {fileID: 0}
-  projectilePrefab: {fileID: 4326917938806642387, guid: f7708dc27e29c41c2bb8cd14f06fe337, type: 3}
-  linearVelocity: {x: -1, y: 0, z: 0}
 --- !u!58 &8017174359412119515
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -235,6 +217,26 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.235
+--- !u!114 &7077497330770138608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4007124608622316609}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35c6a6c2bd90d25ad8f56cd08967b670, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  currentLevel: {fileID: 0}
+  reward: {fileID: 4326917938806642387, guid: 820a1d9676cc1bc4085195d0a6308dd9, type: 3}
+  speed: 1
+  linearVelocity: {x: -1, y: 0, z: 0}
+  spawnPointTop: {fileID: 0}
+  spawnPointCenter: {fileID: 5459426185083259877}
+  spawnPointBottom: {fileID: 0}
+  projectilePrefab: {fileID: 4326917938806642387, guid: f7708dc27e29c41c2bb8cd14f06fe337, type: 3}
 --- !u!1 &5459426185083259877
 GameObject:
   m_ObjectHideFlags: 0

@@ -109,12 +109,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35c6a6c2bd90d25ad8f56cd08967b670, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  currentLevel: {fileID: 0}
+  powerLevel: {fileID: 0}
+  reward: {fileID: 4326917938806642387, guid: 820a1d9676cc1bc4085195d0a6308dd9, type: 3}
   speed: 1
+  linearVelocity: {x: 0, y: 1, z: 0}
   spawnPointTop: {fileID: 9217396198056728645}
   spawnPointCenter: {fileID: 7990383568820524693}
   spawnPointBottom: {fileID: 8736524563672510849}
   projectilePrefab: {fileID: 4326917938806642387, guid: 38a2ecf721d5f220c89f2f31ea6f9201, type: 3}
-  linearVelocity: {x: 0, y: 1, z: 0}
 --- !u!58 &8017174359412119515
 CircleCollider2D:
   m_ObjectHideFlags: 0

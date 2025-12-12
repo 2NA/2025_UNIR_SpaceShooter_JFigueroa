@@ -1,18 +1,21 @@
-using System;
 using System.Collections;
 using UnityEngine;
-using UnityEngine.UIElements;
 using TMPro;
 
 public class Enemy : MonoBehaviour
 {
-    [SerializeField] TextMeshProUGUI currentLevel;
+    [Header("Mods")]
+    [SerializeField] GameObject reward = null;
+
+    [Header("Movement")]
     [SerializeField] float speed = 1f;
+    [SerializeField] Vector3 linearVelocity = Vector3.left;
+
+    [Header("Shooting")]
     [SerializeField] GameObject spawnPointTop = null;
     [SerializeField] GameObject spawnPointCenter = null;
     [SerializeField] GameObject spawnPointBottom = null;
     [SerializeField] GameObject projectilePrefab = null;
-    [SerializeField] Vector3 linearVelocity = Vector3.left;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,6 +26,13 @@ public class Enemy : MonoBehaviour
             linearVelocity = Vector3.left;
         }
         StartCoroutine(SpawnShot());
+    }
+
+    private PlayerSpaceShip player;
+    void Awake()
+    {
+        GameObject playerObject = GameObject.FindGameObjectWithTag("Player");
+        player = playerObject.GetComponent<PlayerSpaceShip>();
     }
 
     // Update is called once per frame
@@ -45,6 +55,16 @@ public class Enemy : MonoBehaviour
     {
         if (collision.CompareTag("PlayerShot"))
         {
+
+            if (player.powerLevel < 4)
+            {
+                float t = Random.Range(0f, 1f);
+                if (t > 0.8f || this.name.Contains("EnemyDragon"))
+                {
+                    Instantiate(reward, transform.position, Quaternion.identity);
+                }
+            }
+
             Destroy(gameObject);
         }
     }
